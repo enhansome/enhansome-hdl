@@ -1,0 +1,1524 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "VHDL",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GHDL",
+              "description": "VHDL compiler and simulator, IEEE 1076-2002, written in ADA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "VHDL",
+                "last_commit": "2026-08-11T19:46:33Z",
+                "owner": "ghdl",
+                "repo": "ghdl",
+                "stars": 2860
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nvc",
+              "description": "GPLv3 VHDL compiler and simulator, IEEE 1076-2002, written in C",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-12T09:07:07Z",
+                "owner": "nickg",
+                "repo": "nvc",
+                "stars": 872
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "chisel/firrtl",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "essent",
+              "description": "firrtl to optimized C++ transpiler",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2026-08-04T18:38:22Z",
+                "owner": "ucsc-vama",
+                "repo": "essent",
+                "stars": 195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "treadle",
+              "description": "firrtl simulator written in Scala",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Scala",
+                "last_commit": "2024-08-21T15:40:24Z",
+                "owner": "chipsalliance",
+                "repo": "treadle",
+                "stars": 157
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CIRCT",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ksim",
+              "description": "CIRCT IR to optimized C++ transpiler",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-01-16T09:14:28Z",
+                "owner": "pku-liang",
+                "repo": "ksim",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arcilator",
+              "description": "Fast and cycle-accurate hardware simulation in CIRCT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-01-26T19:18:18Z",
+                "owner": "circt",
+                "repo": "arc-tests",
+                "stars": 39
+              }
+            }
+          ]
+        }
+      ],
+      "title": "HDL simulators and compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "VHDL",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Open Logic",
+              "description": "VHDL Standard Library (FIFOs, CDCs, fixed-point math, etc.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "VHDL",
+                "last_commit": "2026-07-31T15:24:29Z",
+                "owner": "open-logic",
+                "repo": "open-logic",
+                "stars": 997
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "System Verilog",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Taxi Transport Library",
+              "description": "System Verilog standard library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "SystemVerilog",
+                "last_commit": "2026-08-12T04:56:18Z",
+                "owner": "fpganinja",
+                "repo": "taxi",
+                "stars": 884
+              }
+            }
+          ]
+        }
+      ],
+      "title": "HDL Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Dart",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ROHD",
+              "description": "A framework for hardware description and verification, 2021+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Dart",
+                "last_commit": "2026-08-10T23:28:07Z",
+                "owner": "intel",
+                "repo": "rohd",
+                "stars": 489
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Haskell",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CλaSH",
+              "description": "A functional hardware description language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haskell",
+                "last_commit": "2026-08-12T11:53:31Z",
+                "owner": "clash-lang",
+                "repo": "clash-compiler",
+                "stars": 1606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bluespec",
+              "description": "Compiler, simulator, and tools for the Bluespec Hardware Description Language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haskell",
+                "last_commit": "2026-08-03T03:53:51Z",
+                "owner": "B-Lang-org",
+                "repo": "bsc",
+                "stars": 1136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sv2v",
+              "description": "SystemVerilog to Verilog conversion",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haskell",
+                "last_commit": "2026-03-28T02:54:17Z",
+                "owner": "zachjs",
+                "repo": "sv2v",
+                "stars": 748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "concat",
+              "description": "Haskell to hardware, 2016+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haskell",
+                "last_commit": "2024-02-28T10:59:03Z",
+                "owner": "compiling-to-categories",
+                "repo": "concat",
+                "stars": 460
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/conal/talk-2015-haskell-to-hardware",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TeX",
+                "last_commit": "2016-06-22T16:25:34Z",
+                "owner": "conal",
+                "repo": "talk-2015-haskell-to-hardware",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pipelineDSL",
+              "description": "A Haskell DSL for describing hardware pipelines",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haskell",
+                "last_commit": "2021-06-20T20:58:33Z",
+                "owner": "p12nGH",
+                "repo": "pipelineDSL",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "JavaScript",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hdl-js",
+              "description": "Hardware description language (HDL) parser, and Hardware simulator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-10-09T08:36:44Z",
+                "owner": "DmitrySoshnikov",
+                "repo": "hdl-js",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reqack",
+              "description": "elastic circuit toolchain",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-07-20T20:35:16Z",
+                "owner": "drom",
+                "repo": "reqack",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shdl",
+              "description": "Simple Hardware Description Language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-10T11:31:38Z",
+                "owner": "jcbuisson",
+                "repo": "shdl",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "irtl",
+              "description": "a small intermediate representation (IR) builder for RTL. emits FIRRTL or Verilog",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-07-09T02:09:15Z",
+                "owner": "drom",
+                "repo": "irtl",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Julia",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Julia-Verilog",
+              "description": "a Verilog-generation DSL for Julia., 2017",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Julia",
+                "last_commit": "2017-04-18T08:58:59Z",
+                "owner": "interplanetary-robot",
+                "repo": "Verilog.jl",
+                "stars": 51
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OCaml",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hardcaml",
+              "description": "An OCaml library for designing hardware, complete with testing and simulation tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "OCaml",
+                "last_commit": "2026-07-10T16:45:36Z",
+                "owner": "janestreet",
+                "repo": "hardcaml",
+                "stars": 1108
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Kotlin",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Verik",
+              "description": "HDL for design and verification. generates SV. UVM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2022-12-24T17:46:14Z",
+                "owner": "frwang96",
+                "repo": "verik",
+                "stars": 47
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Python",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Amaranth",
+              "description": "(previously nMigen) - A refreshed Python toolbox for building complex digital hardware, 2018+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T03:08:02Z",
+                "owner": "amaranth-lang",
+                "repo": "amaranth",
+                "stars": 2066
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "migen",
+              "description": "Meta HDL, 2011+",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2026-01-05T04:05:22Z",
+                "owner": "m-labs",
+                "repo": "migen",
+                "stars": 1331
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MyHDL",
+              "description": "Process based HDL, verification framework included, 2004+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-04-10T18:55:22Z",
+                "owner": "myhdl",
+                "repo": "myhdl",
+                "stars": 1125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "veriloggen",
+              "description": "Python, Verilog centric meta HDL with HLS like features, 2015-?",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-08T16:18:39Z",
+                "owner": "PyHDI",
+                "repo": "veriloggen",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyRTL",
+              "description": "Meta HDL, simulator suitable for research.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-13T01:53:45Z",
+                "owner": "UCSBarchlab",
+                "repo": "PyRTL",
+                "stars": 303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "magma",
+              "description": "Meta HDL, 2017+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-10-19T20:11:36Z",
+                "owner": "phanrahan",
+                "repo": "magma",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyMTL",
+              "description": "Process based HDL, verification framework included, 2014+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-10-27T14:22:13Z",
+                "owner": "cornell-brg",
+                "repo": "pymtl",
+                "stars": 246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HWT",
+              "description": "Meta HDL, verification env. IP-core generator, analysis tools, HDL glue",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-23T22:05:11Z",
+                "owner": "Nic30",
+                "repo": "hwt",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "garnet",
+              "description": "Coarse-Grained Reconfigurable Architecture generator based on magma, 2018+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-16T04:48:45Z",
+                "owner": "StanfordAHA",
+                "repo": "garnet",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hdl21",
+              "description": "Analog HDL in Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-17T07:26:44Z",
+                "owner": "dan-fritchman",
+                "repo": "Hdl21",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyHGL",
+              "description": "Meta HDL, three-state event-driven simulation, 2022+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-05-26T09:09:27Z",
+                "owner": "PyHGL",
+                "repo": "pyhgl",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyXHDL",
+              "description": "Python Frontend For VHDL And Verilog, 2023+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "VHDL",
+                "last_commit": "2026-05-18T14:44:09Z",
+                "owner": "davidel",
+                "repo": "pyxhdl",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GateForge",
+              "description": "Meta HDL, 2025+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-04-06T20:11:48Z",
+                "owner": "vagran",
+                "repo": "GateForge",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ruby",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RHDL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2013-03-13T17:11:04Z",
+                "owner": "philtomson",
+                "repo": "RHDL",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Rust",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "calyx",
+              "description": "Intermediate Language (IL) for Hardware Accelerator Generators, 2020+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-12T14:45:52Z",
+                "owner": "calyxir",
+                "repo": "calyx",
+                "stars": 608
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kaze",
+              "description": "Meta HDL, 2019+",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Rust",
+                "last_commit": "2023-11-15T21:54:24Z",
+                "owner": "yupferris",
+                "repo": "kaze",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hoodlum",
+              "description": "Meta HDL, 2016+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2017-04-08T00:52:45Z",
+                "owner": "tcr",
+                "repo": "hoodlum",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cement",
+              "description": "A rule-based Meta HDL inspired by Bluespec, 2024+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2025-01-16T11:13:29Z",
+                "owner": "pku-liang",
+                "repo": "Cement",
+                "stars": 40
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Scala",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "chisel",
+              "description": "Meta HDL, 2012+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2026-08-13T04:05:35Z",
+                "owner": "chipsalliance",
+                "repo": "chisel",
+                "stars": 4755
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpinalHDL",
+              "description": "Meta HDL 2012+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2026-08-12T07:15:05Z",
+                "owner": "SpinalHDL",
+                "repo": "SpinalHDL",
+                "stars": 2026
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C#",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Quokka",
+              "description": "C# to low-level RTL translator (Verilog, VHDL) and simulation toolkit examples (gates, components, RISC-V, SoC)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Verilog",
+                "last_commit": "2026-03-04T09:36:01Z",
+                "owner": "EvgenyMuryshkin",
+                "repo": "qusoc",
+                "stars": 24
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Veryl",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Veryl",
+              "description": "An original HDL based on SystemVerilog / Rust syntax, and transplier to SystemVerilog",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-13T03:58:36Z",
+                "owner": "veryl-lang",
+                "repo": "veryl",
+                "stars": 1011
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Meta HDL and Transpilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vitis",
+          "description": "LLVM based, made by Xilinx. user manual",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T16:46:23Z",
+            "owner": "Xilinx",
+            "repo": "HLS",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ahaHLS",
+          "description": "2019, An open source high level synthesis (HLS) tool using LLVM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-11T12:11:28Z",
+            "owner": "dillonhuff",
+            "repo": "ahaHLS",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shang",
+          "description": "2012-2014, LLVM based, c->verilog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2014-05-29T05:26:20Z",
+            "owner": "etherzhhb",
+            "repo": "Shang",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polyphony",
+          "description": "2015-2017, simple python to hdl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T03:01:18Z",
+            "owner": "polyphony-dev",
+            "repo": "polyphony",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "combinatorylogic/soc",
+          "description": "2019, An experimental System-on-Chip with a custom compiler toolchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2020-01-02T07:33:37Z",
+            "owner": "combinatorylogic",
+            "repo": "soc",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hector",
+          "description": "2022, An open-source hardware synthesis framework using MLIR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-10T04:35:14Z",
+            "owner": "pku-liang",
+            "repo": "Hector",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quokka",
+          "description": "C# to HL RTL translator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-03-04T09:40:43Z",
+            "owner": "EvgenyMuryshkin",
+            "repo": "QuokkaEvaluation",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Holoso",
+          "description": "2026+, high-level synthesis of portable Verilog from idiomatic Python for numerical/DSP applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:12:38Z",
+            "owner": "Zubax",
+            "repo": "holoso",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Potholes",
+          "description": "2012-2014 - polyhedral model preprocessor, Uses Vivado HLS, PET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2014-05-13T23:54:46Z",
+            "owner": "SamuelBayliss",
+            "repo": "Potholes",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hls_recurse",
+          "description": "2015-2016 - conversion of recursive fn. for stackless architectures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-08-30T17:06:27Z",
+            "owner": "m8pple",
+            "repo": "hls_recurse",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hg_lvl_syn",
+          "description": "2010, ILP, Force Directed scheduler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2010-12-21T06:26:29Z",
+            "owner": "funningboy",
+            "repo": "hg_lvl_syn",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xronos",
+          "description": "2012, java, simple HLS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2012-12-12T08:21:11Z",
+            "owner": "endrix",
+            "repo": "xronos",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DelayGraph",
+          "description": "2016, C#, register assignment algorithms",
+          "children": []
+        }
+      ],
+      "title": "HLS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Silice",
+          "description": "A language for hardcoding algorithms into FPGA hardware",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-18T20:05:27Z",
+            "owner": "sylefeb",
+            "repo": "Silice",
+            "stars": 1430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "act",
+          "description": "asynchronous circuit/compiler tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T08:58:09Z",
+            "owner": "asyncvlsi",
+            "repo": "act",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ORD",
+          "description": "Python-superset HDL for analog and mixed-signal IC design entry, part of the open-source ORDeC design platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:16:03Z",
+            "owner": "tub-msc",
+            "repo": "ordec",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autopiper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2015-10-26T22:18:04Z",
+            "owner": "google",
+            "repo": "autopiper",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnvilHDL",
+          "description": "2025+, An HDL designed to help avoid common bugs while allowing low-level control through a Rust-like type system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-05T11:24:26Z",
+            "owner": "kisp-nus",
+            "repo": "anvil",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Other HDL languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "firrtl",
+          "description": "2016-?, Flexible Intermediate Representation for RTL",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2024-08-20T18:13:34Z",
+            "owner": "chipsalliance",
+            "repo": "firrtl",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLHD",
+          "description": "Low Level Hardware Description — A foundation for building hardware design tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-04-20T09:57:15Z",
+            "owner": "fabianschuiki",
+            "repo": "llhd",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lgraph",
+          "description": "2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T18:22:24Z",
+            "owner": "masc-ucsc",
+            "repo": "livehd",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coreir",
+          "description": "2016-?, LLVM HW compiler## License",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-06-27T21:42:15Z",
+            "owner": "rdaly525",
+            "repo": "coreir",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLSIR",
+          "description": "IC Interchange Formats, defined in Google Protobuf SDL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-15T15:04:36Z",
+            "owner": "Vlsir",
+            "repo": "Vlsir",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Hardware Intermediate Representations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yosys",
+          "description": "RTL synthesis framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T21:40:00Z",
+            "owner": "YosysHQ",
+            "repo": "yosys",
+            "stars": 4663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vtr-verilog-to-routing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:07:25Z",
+            "owner": "verilog-to-routing",
+            "repo": "vtr-verilog-to-routing",
+            "stars": 1257
+          }
+        }
+      ],
+      "title": "Synthesis tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wavedrom",
+          "description": "Javascript wave graph visualizer for documentations and sim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-08T23:45:28Z",
+            "owner": "wavedrom",
+            "repo": "wavedrom",
+            "stars": 3459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netlistsvg",
+          "description": "Javascript schematic visualizer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-25T15:56:06Z",
+            "owner": "nturley",
+            "repo": "netlistsvg",
+            "stars": 813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bitfield",
+          "description": "Javascript bit field diagram renderer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-22T18:09:49Z",
+            "owner": "wavedrom",
+            "repo": "bitfield",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-hwschematic",
+          "description": "Javascript hierarchical schematic visualizer for HDLs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-13T16:02:48Z",
+            "owner": "Nic30",
+            "repo": "d3-hwschematic",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-wave",
+          "description": "Javascript wave graph visualizer for RTL simulations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-09T11:32:35Z",
+            "owner": "Nic30",
+            "repo": "d3-wave",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sphinx-hwt",
+          "description": "Plugin for sphinx documentation generator which adds schematic into html documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-12T18:53:12Z",
+            "owner": "Nic30",
+            "repo": "sphinx-hwt",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Visualization and Documentation generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "slang",
+          "description": "SystemVerilog compiler and language service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T13:44:14Z",
+            "owner": "MikePopoloski",
+            "repo": "slang",
+            "stars": 1110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyverilog",
+          "description": "Python-based Hardware Design Processing Toolkit for Verilog HDL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-15T15:44:30Z",
+            "owner": "PyHDI",
+            "repo": "Pyverilog",
+            "stars": 798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust_hdl",
+          "description": "VHDL parser and language server written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T06:55:50Z",
+            "owner": "VHDL-LS",
+            "repo": "rust_hdl",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sv-parser",
+          "description": "IEEE 1800-2017 System Verilog Parser written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-10T01:05:59Z",
+            "owner": "dalance",
+            "repo": "sv-parser",
+            "stars": 481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Surelog",
+          "description": "SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-28T20:05:42Z",
+            "owner": "chipsalliance",
+            "repo": "Surelog",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hdlConvertor",
+          "description": "Fast (System) Verilog/VHDL parser written as C++ extension for Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-30T16:05:06Z",
+            "owner": "Nic30",
+            "repo": "hdlConvertor",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyVHDLParser",
+          "description": "VHDL parser written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-15T05:45:31Z",
+            "owner": "Paebbels",
+            "repo": "pyVHDLParser",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "HDL parsers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cocotb",
+          "description": "A coroutine based co-simulation library for writing VHDL and Verilog testbenches in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:28:03Z",
+            "owner": "cocotb",
+            "repo": "cocotb",
+            "stars": 2471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "midas",
+          "description": "FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2019-11-22T23:32:10Z",
+            "owner": "ucb-bar",
+            "repo": "midas",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osvvm",
+          "description": "A VHDL verification framework, verification utility library, verification component library, and a simulator independent scripting flow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-30T18:16:51Z",
+            "owner": "OSVVM",
+            "repo": "OsvvmLibraries",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uvvm",
+          "description": "A free and Open Source Methodology and Library for VHDL verification of FPGA and ASIC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-30T18:16:51Z",
+            "owner": "OSVVM",
+            "repo": "OsvvmLibraries",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crave",
+          "description": "Constrained random stimuli generation for C++ and SystemC (AntMicro's fork of crave)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-30T08:27:33Z",
+            "owner": "antmicro",
+            "repo": "crave",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Other Simulation tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fusesoc",
+          "description": "Package manager and a set of build tools for HDL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T09:11:20Z",
+            "owner": "olofk",
+            "repo": "fusesoc",
+            "stars": 1447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RgGen",
+          "description": "Code generator tool to generate RTL, UVM RAL models and Wiki documents from CSR specifications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-16T23:55:25Z",
+            "owner": "rggen",
+            "repo": "rggen",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svlint",
+          "description": "SystemVerilog linter compliant with IEEE1800-2017. Written in Rust, based on sv-parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-06T20:01:47Z",
+            "owner": "dalance",
+            "repo": "svlint",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bender",
+          "description": "Dependency management tool for hardware design projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:43:16Z",
+            "owner": "pulp-platform",
+            "repo": "bender",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peakrdl",
+          "description": "CSR toolchain to generate RTL, UVM RAL models, document(html and markdown), IPXACT, c header from SystemRDL or IPXACT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T18:58:20Z",
+            "owner": "SystemRDL",
+            "repo": "PeakRDL",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HDLGen",
+          "description": "Tool for processing of embedded Perl or Python scripts in Verilog source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2023-10-31T10:55:00Z",
+            "owner": "WilsonChen003",
+            "repo": "HDLGen",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tbengy",
+          "description": "Code generator tool to generate SV/UVM RTL and Testbech as well scripts with support for bitstream generation for Digilent FPGAs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-19T22:16:54Z",
+            "owner": "prasadp4009",
+            "repo": "tbengy",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hbs",
+          "description": "A lean dependency management and build system for hardware description projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2026-07-26T09:46:54Z",
+            "owner": "m-kru",
+            "repo": "hbs",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Other Design Automation tools"
+    },
+    {
+      "description": "To the extent possible under law, Aliaksei Chapyzhenka has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:53.216Z",
+    "original_repository": "drom/awesome-hdl",
+    "original_repository_sha": "2ce0847bd411911ee414a2b66920b503c410f8cd",
+    "enhanced_repository": "enhansome/enhansome-hdl",
+    "enhanced_repository_description": null,
+    "title": "Awesome Hardware Description Languages with stars"
+  }
+}
