@@ -210,7 +210,7 @@
                     "archived": false,
                     "id": 11172497,
                     "language": "Haskell",
-                    "last_commit": "2026-08-19T10:46:48Z",
+                    "last_commit": "2026-08-19T13:42:37Z",
                     "owner": "clash-lang",
                     "repo": "clash-compiler",
                     "stars": 1607
@@ -399,7 +399,7 @@
                     "last_commit": "2026-07-10T16:45:36Z",
                     "owner": "janestreet",
                     "repo": "hardcaml",
-                    "stars": 1114
+                    "stars": 1115
                   }
                 }
               ]
@@ -664,7 +664,7 @@
                     "archived": false,
                     "id": 195173710,
                     "language": "Rust",
-                    "last_commit": "2026-08-18T18:11:41Z",
+                    "last_commit": "2026-08-19T14:19:52Z",
                     "owner": "calyxir",
                     "repo": "calyx",
                     "stars": 610
@@ -734,7 +734,7 @@
                     "last_commit": "2026-08-19T11:12:08Z",
                     "owner": "chipsalliance",
                     "repo": "chisel",
-                    "stars": 4760
+                    "stars": 4761
                   }
                 },
                 {
@@ -749,7 +749,7 @@
                     "last_commit": "2026-08-12T07:15:05Z",
                     "owner": "SpinalHDL",
                     "repo": "SpinalHDL",
-                    "stars": 2028
+                    "stars": 2029
                   }
                 }
               ]
@@ -790,7 +790,7 @@
                     "archived": false,
                     "id": 575770340,
                     "language": "Rust",
-                    "last_commit": "2026-08-19T08:06:16Z",
+                    "last_commit": "2026-08-19T13:19:16Z",
                     "owner": "veryl-lang",
                     "repo": "veryl",
                     "stars": 1021
@@ -919,7 +919,7 @@
                 "archived": false,
                 "id": 1236971348,
                 "language": "Python",
-                "last_commit": "2026-08-18T21:08:18Z",
+                "last_commit": "2026-08-19T13:09:54Z",
                 "owner": "Zubax",
                 "repo": "holoso",
                 "stars": 33
@@ -1064,7 +1064,7 @@
                 "last_commit": "2026-08-05T11:24:26Z",
                 "owner": "kisp-nus",
                 "repo": "anvil",
-                "stars": 30
+                "stars": 31
               }
             }
           ],
@@ -1113,7 +1113,7 @@
                 "archived": false,
                 "id": 130754579,
                 "language": "C++",
-                "last_commit": "2026-08-19T04:50:13Z",
+                "last_commit": "2026-08-19T15:07:26Z",
                 "owner": "masc-ucsc",
                 "repo": "livehd",
                 "stars": 239
@@ -1165,10 +1165,10 @@
                 "archived": false,
                 "id": 7454197,
                 "language": "C++",
-                "last_commit": "2026-08-19T12:00:50Z",
+                "last_commit": "2026-08-19T16:15:15Z",
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4686
+                "stars": 4688
               }
             },
             {
@@ -1205,7 +1205,7 @@
                 "last_commit": "2026-07-08T23:45:28Z",
                 "owner": "wavedrom",
                 "repo": "wavedrom",
-                "stars": 3469
+                "stars": 3470
               }
             },
             {
@@ -1614,7 +1614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:19.159Z",
+    "last_updated": "2026-08-19T18:51:13.295Z",
     "original_repository": "drom/awesome-hdl",
     "original_repository_id": 88018788,
     "original_repository_sha": "2ce0847bd411911ee414a2b66920b503c410f8cd",
