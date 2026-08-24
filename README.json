@@ -210,7 +210,7 @@
                     "archived": false,
                     "id": 11172497,
                     "language": "Haskell",
-                    "last_commit": "2026-08-21T17:19:01Z",
+                    "last_commit": "2026-08-24T13:49:16Z",
                     "owner": "clash-lang",
                     "repo": "clash-compiler",
                     "stars": 1606
@@ -225,7 +225,7 @@
                     "archived": false,
                     "id": 237523651,
                     "language": "Haskell",
-                    "last_commit": "2026-08-22T20:44:04Z",
+                    "last_commit": "2026-08-24T05:34:07Z",
                     "owner": "B-Lang-org",
                     "repo": "bsc",
                     "stars": 1141
@@ -399,7 +399,7 @@
                     "last_commit": "2026-07-10T16:45:36Z",
                     "owner": "janestreet",
                     "repo": "hardcaml",
-                    "stars": 1116
+                    "stars": 1117
                   }
                 }
               ]
@@ -440,7 +440,7 @@
                     "archived": false,
                     "id": 236501540,
                     "language": "Python",
-                    "last_commit": "2026-08-21T12:58:26Z",
+                    "last_commit": "2026-08-23T22:27:47Z",
                     "owner": "amaranth-lang",
                     "repo": "amaranth",
                     "stars": 2073
@@ -790,7 +790,7 @@
                     "archived": false,
                     "id": 575770340,
                     "language": "Rust",
-                    "last_commit": "2026-08-21T10:15:34Z",
+                    "last_commit": "2026-08-24T12:38:13Z",
                     "owner": "veryl-lang",
                     "repo": "veryl",
                     "stars": 1024
@@ -1113,7 +1113,7 @@
                 "archived": false,
                 "id": 130754579,
                 "language": "C++",
-                "last_commit": "2026-08-23T15:01:14Z",
+                "last_commit": "2026-08-23T19:40:25Z",
                 "owner": "masc-ucsc",
                 "repo": "livehd",
                 "stars": 239
@@ -1165,10 +1165,10 @@
                 "archived": false,
                 "id": 7454197,
                 "language": "C++",
-                "last_commit": "2026-08-21T18:55:41Z",
+                "last_commit": "2026-08-24T11:54:14Z",
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4702
+                "stars": 4703
               }
             },
             {
@@ -1180,7 +1180,7 @@
                 "archived": false,
                 "id": 38118370,
                 "language": "C++",
-                "last_commit": "2026-08-23T17:11:00Z",
+                "last_commit": "2026-08-24T05:34:01Z",
                 "owner": "verilog-to-routing",
                 "repo": "vtr-verilog-to-routing",
                 "stars": 1257
@@ -1205,7 +1205,7 @@
                 "last_commit": "2026-07-08T23:45:28Z",
                 "owner": "wavedrom",
                 "repo": "wavedrom",
-                "stars": 3471
+                "stars": 3473
               }
             },
             {
@@ -1220,7 +1220,7 @@
                 "last_commit": "2024-01-25T15:56:06Z",
                 "owner": "nturley",
                 "repo": "netlistsvg",
-                "stars": 818
+                "stars": 819
               }
             },
             {
@@ -1302,7 +1302,7 @@
                 "last_commit": "2026-08-21T15:17:40Z",
                 "owner": "MikePopoloski",
                 "repo": "slang",
-                "stars": 1118
+                "stars": 1119
               }
             },
             {
@@ -1359,7 +1359,7 @@
                 "archived": false,
                 "id": 218417034,
                 "language": "C++",
-                "last_commit": "2026-08-23T05:39:37Z",
+                "last_commit": "2026-08-24T04:12:36Z",
                 "owner": "chipsalliance",
                 "repo": "Surelog",
                 "stars": 472
@@ -1411,7 +1411,7 @@
                 "archived": false,
                 "id": 10651005,
                 "language": "Python",
-                "last_commit": "2026-08-23T04:29:19Z",
+                "last_commit": "2026-08-24T13:21:33Z",
                 "owner": "cocotb",
                 "repo": "cocotb",
                 "stars": 2483
@@ -1493,10 +1493,10 @@
                 "archived": false,
                 "id": 16964283,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:45:52Z",
+                "last_commit": "2026-08-24T12:37:32Z",
                 "owner": "olofk",
                 "repo": "fusesoc",
-                "stars": 1452
+                "stars": 1453
               }
             },
             {
@@ -1526,7 +1526,7 @@
                 "last_commit": "2025-11-06T20:01:47Z",
                 "owner": "dalance",
                 "repo": "svlint",
-                "stars": 388
+                "stars": 389
               }
             },
             {
@@ -1608,13 +1608,35 @@
           "description": null,
           "node_type": "group",
           "title": "Other Design Automation tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PSS CookBook",
+              "description": "Documentation for introducing the usage of PSS language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 697675358,
+                "language": "Dockerfile",
+                "last_commit": "2025-12-24T06:15:34Z",
+                "owner": "LeeKaiXuan",
+                "repo": "PSS_Cookbook",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PSS : Portable test and Stimulus Standard"
         }
       ],
       "title": "Hardware development"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:46:28.870Z",
+    "last_updated": "2026-08-24T14:12:59.030Z",
     "original_repository": "drom/awesome-hdl",
     "original_repository_id": 88018788,
     "original_repository_sha": "2ce0847bd411911ee414a2b66920b503c410f8cd",
