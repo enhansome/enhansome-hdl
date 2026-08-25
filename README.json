@@ -19,10 +19,10 @@
                     "archived": false,
                     "id": 46439446,
                     "language": "VHDL",
-                    "last_commit": "2026-08-25T05:57:53Z",
+                    "last_commit": "2026-08-25T06:17:32Z",
                     "owner": "ghdl",
                     "repo": "ghdl",
-                    "stars": 2867
+                    "stars": 2868
                   }
                 },
                 {
@@ -37,7 +37,7 @@
                     "last_commit": "2026-08-20T20:03:35Z",
                     "owner": "nickg",
                     "repo": "nvc",
-                    "stars": 876
+                    "stars": 878
                   }
                 }
               ]
@@ -140,7 +140,7 @@
                     "last_commit": "2026-08-21T17:52:54Z",
                     "owner": "open-logic",
                     "repo": "open-logic",
-                    "stars": 1001
+                    "stars": 1004
                   }
                 }
               ]
@@ -162,7 +162,7 @@
                     "last_commit": "2026-08-21T18:34:59Z",
                     "owner": "fpganinja",
                     "repo": "taxi",
-                    "stars": 902
+                    "stars": 903
                   }
                 }
               ]
@@ -210,7 +210,7 @@
                     "archived": false,
                     "id": 11172497,
                     "language": "Haskell",
-                    "last_commit": "2026-08-24T18:41:31Z",
+                    "last_commit": "2026-08-25T14:20:14Z",
                     "owner": "clash-lang",
                     "repo": "clash-compiler",
                     "stars": 1606
@@ -545,7 +545,7 @@
                     "archived": false,
                     "id": 35898469,
                     "language": "Python",
-                    "last_commit": "2026-08-24T18:23:04Z",
+                    "last_commit": "2026-08-25T09:47:41Z",
                     "owner": "Nic30",
                     "repo": "hwt",
                     "stars": 226
@@ -790,10 +790,10 @@
                     "archived": false,
                     "id": 575770340,
                     "language": "Rust",
-                    "last_commit": "2026-08-25T05:47:34Z",
+                    "last_commit": "2026-08-25T16:53:44Z",
                     "owner": "veryl-lang",
                     "repo": "veryl",
-                    "stars": 1024
+                    "stars": 1026
                   }
                 }
               ]
@@ -919,7 +919,7 @@
                 "archived": false,
                 "id": 1236971348,
                 "language": "Python",
-                "last_commit": "2026-08-19T13:09:54Z",
+                "last_commit": "2026-08-25T18:54:52Z",
                 "owner": "Zubax",
                 "repo": "holoso",
                 "stars": 34
@@ -1016,7 +1016,7 @@
                 "archived": false,
                 "id": 161163450,
                 "language": "C++",
-                "last_commit": "2026-08-22T20:10:35Z",
+                "last_commit": "2026-08-25T13:48:29Z",
                 "owner": "asyncvlsi",
                 "repo": "act",
                 "stars": 130
@@ -1113,7 +1113,7 @@
                 "archived": false,
                 "id": 130754579,
                 "language": "C++",
-                "last_commit": "2026-08-25T03:54:09Z",
+                "last_commit": "2026-08-25T14:12:39Z",
                 "owner": "masc-ucsc",
                 "repo": "livehd",
                 "stars": 239
@@ -1165,7 +1165,7 @@
                 "archived": false,
                 "id": 7454197,
                 "language": "C++",
-                "last_commit": "2026-08-24T15:43:55Z",
+                "last_commit": "2026-08-25T15:20:35Z",
                 "owner": "YosysHQ",
                 "repo": "yosys",
                 "stars": 4705
@@ -1180,7 +1180,7 @@
                 "archived": false,
                 "id": 38118370,
                 "language": "C++",
-                "last_commit": "2026-08-25T03:39:25Z",
+                "last_commit": "2026-08-25T13:54:07Z",
                 "owner": "verilog-to-routing",
                 "repo": "vtr-verilog-to-routing",
                 "stars": 1257
@@ -1541,7 +1541,7 @@
                 "last_commit": "2026-08-20T03:43:04Z",
                 "owner": "pulp-platform",
                 "repo": "bender",
-                "stars": 386
+                "stars": 387
               }
             },
             {
@@ -1636,7 +1636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:06:06.301Z",
+    "last_updated": "2026-08-25T18:55:07.762Z",
     "original_repository": "drom/awesome-hdl",
     "original_repository_id": 88018788,
     "original_repository_sha": "2ce0847bd411911ee414a2b66920b503c410f8cd",
