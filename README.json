@@ -19,7 +19,7 @@
                     "archived": false,
                     "id": 46439446,
                     "language": "VHDL",
-                    "last_commit": "2026-08-24T16:38:14Z",
+                    "last_commit": "2026-08-25T05:57:53Z",
                     "owner": "ghdl",
                     "repo": "ghdl",
                     "stars": 2867
@@ -162,7 +162,7 @@
                     "last_commit": "2026-08-21T18:34:59Z",
                     "owner": "fpganinja",
                     "repo": "taxi",
-                    "stars": 903
+                    "stars": 902
                   }
                 }
               ]
@@ -263,7 +263,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/conal/talk-2015-haskell-to-hardware",
+                  "title": "conal/talk-2015-haskell-to-hardware",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -399,7 +399,7 @@
                     "last_commit": "2026-07-10T16:45:36Z",
                     "owner": "janestreet",
                     "repo": "hardcaml",
-                    "stars": 1117
+                    "stars": 1118
                   }
                 }
               ]
@@ -560,7 +560,7 @@
                     "archived": false,
                     "id": 140670939,
                     "language": "Python",
-                    "last_commit": "2026-08-22T17:04:28Z",
+                    "last_commit": "2026-08-25T03:19:37Z",
                     "owner": "StanfordAHA",
                     "repo": "garnet",
                     "stars": 119
@@ -734,7 +734,7 @@
                     "last_commit": "2026-08-23T11:10:44Z",
                     "owner": "chipsalliance",
                     "repo": "chisel",
-                    "stars": 4762
+                    "stars": 4763
                   }
                 },
                 {
@@ -790,7 +790,7 @@
                     "archived": false,
                     "id": 575770340,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T12:38:13Z",
+                    "last_commit": "2026-08-25T05:47:34Z",
                     "owner": "veryl-lang",
                     "repo": "veryl",
                     "stars": 1024
@@ -1031,7 +1031,7 @@
                 "archived": false,
                 "id": 994840868,
                 "language": "Python",
-                "last_commit": "2026-08-24T15:36:03Z",
+                "last_commit": "2026-08-24T20:43:44Z",
                 "owner": "tub-msc",
                 "repo": "ordec",
                 "stars": 115
@@ -1113,7 +1113,7 @@
                 "archived": false,
                 "id": 130754579,
                 "language": "C++",
-                "last_commit": "2026-08-24T15:05:51Z",
+                "last_commit": "2026-08-25T03:54:09Z",
                 "owner": "masc-ucsc",
                 "repo": "livehd",
                 "stars": 239
@@ -1180,7 +1180,7 @@
                 "archived": false,
                 "id": 38118370,
                 "language": "C++",
-                "last_commit": "2026-08-24T16:25:35Z",
+                "last_commit": "2026-08-25T03:39:25Z",
                 "owner": "verilog-to-routing",
                 "repo": "vtr-verilog-to-routing",
                 "stars": 1257
@@ -1299,10 +1299,10 @@
                 "archived": false,
                 "id": 80874333,
                 "language": "C++",
-                "last_commit": "2026-08-21T15:17:40Z",
+                "last_commit": "2026-08-24T19:20:48Z",
                 "owner": "MikePopoloski",
                 "repo": "slang",
-                "stars": 1120
+                "stars": 1121
               }
             },
             {
@@ -1359,7 +1359,7 @@
                 "archived": false,
                 "id": 218417034,
                 "language": "C++",
-                "last_commit": "2026-08-24T16:34:52Z",
+                "last_commit": "2026-08-25T01:32:13Z",
                 "owner": "chipsalliance",
                 "repo": "Surelog",
                 "stars": 472
@@ -1411,7 +1411,7 @@
                 "archived": false,
                 "id": 10651005,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:21:33Z",
+                "last_commit": "2026-08-24T23:07:42Z",
                 "owner": "cocotb",
                 "repo": "cocotb",
                 "stars": 2483
@@ -1526,7 +1526,7 @@
                 "last_commit": "2025-11-06T20:01:47Z",
                 "owner": "dalance",
                 "repo": "svlint",
-                "stars": 389
+                "stars": 390
               }
             },
             {
@@ -1636,7 +1636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:57:10.773Z",
+    "last_updated": "2026-08-25T06:06:06.301Z",
     "original_repository": "drom/awesome-hdl",
     "original_repository_id": 88018788,
     "original_repository_sha": "2ce0847bd411911ee414a2b66920b503c410f8cd",
