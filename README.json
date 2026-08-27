@@ -19,7 +19,7 @@
                     "archived": false,
                     "id": 46439446,
                     "language": "VHDL",
-                    "last_commit": "2026-08-26T18:59:32Z",
+                    "last_commit": "2026-08-27T10:21:41Z",
                     "owner": "ghdl",
                     "repo": "ghdl",
                     "stars": 2868
@@ -34,7 +34,7 @@
                     "archived": false,
                     "id": 2715244,
                     "language": "C",
-                    "last_commit": "2026-08-20T20:03:35Z",
+                    "last_commit": "2026-08-27T07:30:35Z",
                     "owner": "nickg",
                     "repo": "nvc",
                     "stars": 878
@@ -213,7 +213,7 @@
                     "last_commit": "2026-08-26T19:12:16Z",
                     "owner": "clash-lang",
                     "repo": "clash-compiler",
-                    "stars": 1606
+                    "stars": 1607
                   }
                 },
                 {
@@ -243,7 +243,7 @@
                     "last_commit": "2026-08-18T12:52:24Z",
                     "owner": "zachjs",
                     "repo": "sv2v",
-                    "stars": 748
+                    "stars": 749
                   }
                 },
                 {
@@ -399,7 +399,7 @@
                     "last_commit": "2026-07-10T16:45:36Z",
                     "owner": "janestreet",
                     "repo": "hardcaml",
-                    "stars": 1118
+                    "stars": 1120
                   }
                 }
               ]
@@ -749,7 +749,7 @@
                     "last_commit": "2026-08-12T07:15:05Z",
                     "owner": "SpinalHDL",
                     "repo": "SpinalHDL",
-                    "stars": 2031
+                    "stars": 2032
                   }
                 }
               ]
@@ -790,10 +790,10 @@
                     "archived": false,
                     "id": 575770340,
                     "language": "Rust",
-                    "last_commit": "2026-08-26T02:46:46Z",
+                    "last_commit": "2026-08-27T11:01:58Z",
                     "owner": "veryl-lang",
                     "repo": "veryl",
-                    "stars": 1026
+                    "stars": 1027
                   }
                 }
               ]
@@ -919,7 +919,7 @@
                 "archived": false,
                 "id": 1236971348,
                 "language": "Python",
-                "last_commit": "2026-08-26T18:10:35Z",
+                "last_commit": "2026-08-27T01:16:58Z",
                 "owner": "Zubax",
                 "repo": "holoso",
                 "stars": 34
@@ -1031,7 +1031,7 @@
                 "archived": false,
                 "id": 994840868,
                 "language": "Python",
-                "last_commit": "2026-08-26T15:28:54Z",
+                "last_commit": "2026-08-26T22:43:42Z",
                 "owner": "tub-msc",
                 "repo": "ordec",
                 "stars": 115
@@ -1113,10 +1113,10 @@
                 "archived": false,
                 "id": 130754579,
                 "language": "C++",
-                "last_commit": "2026-08-26T14:03:40Z",
+                "last_commit": "2026-08-26T23:10:50Z",
                 "owner": "masc-ucsc",
                 "repo": "livehd",
-                "stars": 239
+                "stars": 240
               }
             },
             {
@@ -1165,10 +1165,10 @@
                 "archived": false,
                 "id": 7454197,
                 "language": "C++",
-                "last_commit": "2026-08-26T15:39:52Z",
+                "last_commit": "2026-08-27T11:14:58Z",
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4704
+                "stars": 4706
               }
             },
             {
@@ -1180,7 +1180,7 @@
                 "archived": false,
                 "id": 38118370,
                 "language": "C++",
-                "last_commit": "2026-08-26T17:55:24Z",
+                "last_commit": "2026-08-27T02:05:06Z",
                 "owner": "verilog-to-routing",
                 "repo": "vtr-verilog-to-routing",
                 "stars": 1258
@@ -1205,7 +1205,7 @@
                 "last_commit": "2026-07-08T23:45:28Z",
                 "owner": "wavedrom",
                 "repo": "wavedrom",
-                "stars": 3473
+                "stars": 3475
               }
             },
             {
@@ -1220,7 +1220,7 @@
                 "last_commit": "2024-01-25T15:56:06Z",
                 "owner": "nturley",
                 "repo": "netlistsvg",
-                "stars": 820
+                "stars": 821
               }
             },
             {
@@ -1302,7 +1302,7 @@
                 "last_commit": "2026-08-26T00:05:34Z",
                 "owner": "MikePopoloski",
                 "repo": "slang",
-                "stars": 1122
+                "stars": 1123
               }
             },
             {
@@ -1332,7 +1332,7 @@
                 "last_commit": "2026-08-16T11:36:41Z",
                 "owner": "VHDL-LS",
                 "repo": "rust_hdl",
-                "stars": 504
+                "stars": 505
               }
             },
             {
@@ -1359,7 +1359,7 @@
                 "archived": false,
                 "id": 218417034,
                 "language": "C++",
-                "last_commit": "2026-08-26T01:09:01Z",
+                "last_commit": "2026-08-27T00:29:57Z",
                 "owner": "chipsalliance",
                 "repo": "Surelog",
                 "stars": 472
@@ -1414,7 +1414,7 @@
                 "last_commit": "2026-08-24T23:07:42Z",
                 "owner": "cocotb",
                 "repo": "cocotb",
-                "stars": 2483
+                "stars": 2484
               }
             },
             {
@@ -1444,7 +1444,7 @@
                 "last_commit": "2026-08-21T23:27:23Z",
                 "owner": "OSVVM",
                 "repo": "OsvvmLibraries",
-                "stars": 86
+                "stars": 87
               }
             },
             {
@@ -1459,7 +1459,7 @@
                 "last_commit": "2026-08-21T23:27:23Z",
                 "owner": "OSVVM",
                 "repo": "OsvvmLibraries",
-                "stars": 86
+                "stars": 87
               }
             },
             {
@@ -1636,9 +1636,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:01:24.535Z",
-    "original_repository": "drom/awesome-hdl",
-    "original_repository_id": 88018788,
+    "last_updated": "2026-08-27T11:41:36.336Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 88018788,
+      "language": null,
+      "last_commit": "2026-07-09T02:37:45Z",
+      "owner": "drom",
+      "repo": "awesome-hdl",
+      "stars": 1169
+    },
     "original_repository_sha": "2ce0847bd411911ee414a2b66920b503c410f8cd",
     "enhanced_repository": "enhansome/enhansome-hdl",
     "enhanced_repository_description": null,
