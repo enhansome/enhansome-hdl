@@ -17,12 +17,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VHDL 2008/93/87 simulator",
+                    "homepage": null,
                     "id": 46439446,
                     "language": "VHDL",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-28T16:36:16Z",
+                    "open_issues": 344,
                     "owner": "ghdl",
                     "repo": "ghdl",
-                    "stars": 2869
+                    "stars": 2869,
+                    "topics": [
+                      "compiler",
+                      "gcc",
+                      "ghdl",
+                      "hacktoberfest",
+                      "hardware",
+                      "llvm",
+                      "simulator",
+                      "testbench",
+                      "vhdl"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -33,12 +48,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VHDL compiler and simulator",
+                    "homepage": "https://www.nickg.me.uk/nvc/",
                     "id": 2715244,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T21:35:29Z",
+                    "open_issues": 107,
                     "owner": "nickg",
                     "repo": "nvc",
-                    "stars": 878
+                    "stars": 878,
+                    "topics": [
+                      "compiler",
+                      "fpga",
+                      "simulator",
+                      "verilog",
+                      "vhdl"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -56,12 +82,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "high-performance RTL simulator",
+                    "homepage": null,
                     "id": 215900144,
                     "language": "Scala",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-04T18:38:22Z",
+                    "open_issues": 0,
                     "owner": "ucsc-vama",
                     "repo": "essent",
-                    "stars": 195
+                    "stars": 195,
+                    "topics": [
+                      "chisel",
+                      "firrtl",
+                      "rtl",
+                      "scala"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -72,12 +108,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Chisel/Firrtl execution engine",
+                    "homepage": null,
                     "id": 117883406,
                     "language": "Scala",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-21T15:40:24Z",
+                    "open_issues": 26,
                     "owner": "chipsalliance",
                     "repo": "treadle",
-                    "stars": 157
+                    "stars": 157,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -95,12 +136,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 660464918,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-16T09:14:28Z",
+                    "open_issues": 2,
                     "owner": "pku-liang",
                     "repo": "ksim",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -111,12 +157,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of tests and benchmarks for the Arc simulation backend of CIRCT",
+                    "homepage": null,
                     "id": 628667142,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-01-26T19:18:18Z",
+                    "open_issues": 0,
                     "owner": "circt",
                     "repo": "arc-tests",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -141,12 +192,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open Logic FPGA Standard Library",
+                    "homepage": null,
                     "id": 770586190,
                     "language": "VHDL",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T19:25:56Z",
+                    "open_issues": 15,
                     "owner": "open-logic",
                     "repo": "open-logic",
-                    "stars": 1007
+                    "stars": 1007,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -164,12 +220,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AXI, AXI stream, Ethernet, and PCIe components in System Verilog",
+                    "homepage": "https://fpga.taxi",
                     "id": 926404139,
                     "language": "SystemVerilog",
+                    "license": "CERN-OHL-S-2.0",
                     "last_commit": "2026-08-28T21:46:01Z",
+                    "open_issues": 25,
                     "owner": "fpganinja",
                     "repo": "taxi",
-                    "stars": 909
+                    "stars": 910,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -194,12 +255,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Rapid Open Hardware Development (ROHD) framework is a framework for describing and verifying hardware in the Dart programming language.",
+                    "homepage": "https://intel.github.io/rohd-website",
                     "id": 409325108,
                     "language": "Dart",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-25T19:46:47Z",
+                    "open_issues": 139,
                     "owner": "intel",
                     "repo": "rohd",
-                    "stars": 488
+                    "stars": 488,
+                    "topics": [
+                      "framework",
+                      "hardware",
+                      "hardware-design",
+                      "hardware-verification",
+                      "hdl",
+                      "rtl",
+                      "simulator",
+                      "verification"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -217,12 +292,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Haskell to VHDL/Verilog/SystemVerilog compiler",
+                    "homepage": "https://clash-lang.org/",
                     "id": 11172497,
                     "language": "Haskell",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T13:50:46Z",
+                    "open_issues": 406,
                     "owner": "clash-lang",
                     "repo": "clash-compiler",
-                    "stars": 1608
+                    "stars": 1608,
+                    "topics": [
+                      "asic",
+                      "fpga",
+                      "hardware-description-language",
+                      "haskell",
+                      "systemverilog",
+                      "verilog",
+                      "vhdl"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -233,12 +321,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bluespec Compiler (BSC)",
+                    "homepage": null,
                     "id": 237523651,
                     "language": "Haskell",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T05:34:07Z",
+                    "open_issues": 338,
                     "owner": "B-Lang-org",
                     "repo": "bsc",
-                    "stars": 1141
+                    "stars": 1141,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -249,12 +342,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SystemVerilog to Verilog conversion",
+                    "homepage": null,
                     "id": 169686321,
                     "language": "Haskell",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-18T12:52:24Z",
+                    "open_issues": 38,
                     "owner": "zachjs",
                     "repo": "sv2v",
-                    "stars": 749
+                    "stars": 749,
+                    "topics": [
+                      "conversion",
+                      "systemverilog",
+                      "verilog",
+                      "yosys"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -265,12 +368,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Compiling to Categories",
+                    "homepage": "http://conal.net/papers/compiling-to-categories",
                     "id": 65678280,
                     "language": "Haskell",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-02-28T10:59:03Z",
+                    "open_issues": 38,
                     "owner": "compiling-to-categories",
                     "repo": "concat",
-                    "stars": 459
+                    "stars": 459,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -281,12 +389,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "From Haskell to Hardware via CCCs",
+                    "homepage": null,
                     "id": 33522862,
                     "language": "TeX",
+                    "license": null,
                     "last_commit": "2016-06-22T16:25:34Z",
+                    "open_issues": 0,
                     "owner": "conal",
                     "repo": "talk-2015-haskell-to-hardware",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -297,12 +410,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 378738836,
                     "language": "Haskell",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-06-20T20:58:33Z",
+                    "open_issues": 0,
                     "owner": "p12nGH",
                     "repo": "pipelineDSL",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -320,12 +438,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hardware description language (HDL) parser, and Hardware simulator.",
+                    "homepage": null,
                     "id": 113810374,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-10-09T08:36:44Z",
+                    "open_issues": 6,
                     "owner": "DmitrySoshnikov",
                     "repo": "hdl-js",
-                    "stars": 91
+                    "stars": 91,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -336,12 +459,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔁 elastic circuit toolchain",
+                    "homepage": "https://observablehq.com/collection/@drom/reqack",
                     "id": 51901676,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-20T20:35:16Z",
+                    "open_issues": 24,
                     "owner": "drom",
                     "repo": "reqack",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": [
+                      "hacktoberfest",
+                      "hardware-description-language",
+                      "hdl",
+                      "verilog"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -352,12 +485,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IR for RTL in JavaScript",
+                    "homepage": null,
                     "id": 366133357,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-09T02:09:15Z",
+                    "open_issues": 0,
                     "owner": "drom",
                     "repo": "irtl",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -368,12 +506,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 936592127,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-08-10T11:31:38Z",
+                    "open_issues": 0,
                     "owner": "jcbuisson",
                     "repo": "shdl",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -391,12 +534,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Verilog for Julia",
+                    "homepage": null,
                     "id": 82110762,
                     "language": "Julia",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-04-18T08:58:59Z",
+                    "open_issues": 2,
                     "owner": "interplanetary-robot",
                     "repo": "Verilog.jl",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -414,12 +562,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hardcaml is an OCaml library for designing hardware.",
+                    "homepage": null,
                     "id": 134593997,
                     "language": "OCaml",
+                    "license": "MIT",
                     "last_commit": "2026-07-10T16:45:36Z",
+                    "open_issues": 7,
                     "owner": "janestreet",
                     "repo": "hardcaml",
-                    "stars": 1121
+                    "stars": 1121,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -437,12 +590,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Verik toolchain",
+                    "homepage": null,
                     "id": 269980078,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-12-24T17:46:14Z",
+                    "open_issues": 0,
                     "owner": "frwang96",
                     "repo": "verik",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -460,12 +618,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A modern hardware definition language and toolchain based on Python",
+                    "homepage": "https://amaranth-lang.org/docs/amaranth/",
                     "id": 236501540,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-08-23T22:27:47Z",
+                    "open_issues": 130,
                     "owner": "amaranth-lang",
                     "repo": "amaranth",
-                    "stars": 2074
+                    "stars": 2074,
+                    "topics": [
+                      "amaranth-hdl",
+                      "fpga",
+                      "hdl"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -476,12 +643,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Python toolbox for building complex digital hardware",
+                    "homepage": "https://m-labs.hk/migen",
                     "id": 2910860,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-05T04:05:22Z",
+                    "open_issues": 64,
                     "owner": "m-labs",
                     "repo": "migen",
-                    "stars": 1328
+                    "stars": 1328,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -492,12 +664,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The MyHDL development repository",
+                    "homepage": "http://www.myhdl.org",
                     "id": 30467971,
                     "language": "Python",
+                    "license": "LGPL-2.1",
                     "last_commit": "2025-04-10T18:55:22Z",
+                    "open_issues": 131,
                     "owner": "myhdl",
                     "repo": "myhdl",
-                    "stars": 1127
+                    "stars": 1127,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -508,12 +685,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Veriloggen: A Mixed-Paradigm Hardware Construction Framework",
+                    "homepage": null,
                     "id": 37813184,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-08T16:18:39Z",
+                    "open_issues": 26,
                     "owner": "PyHDI",
                     "repo": "veriloggen",
-                    "stars": 327
+                    "stars": 327,
+                    "topics": [
+                      "compiler",
+                      "hardware",
+                      "hardware-construction-language",
+                      "high-level-synthesis",
+                      "python",
+                      "pyverilog",
+                      "verilog-hdl"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -524,12 +714,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of classes providing simple hardware specification, simulation, tracing, and testing suitable for teaching and research.  Simplicity, usability, clarity, and extensibility are the overarching goals, rather than performance or optimization.",
+                    "homepage": "http://ucsbarchlab.github.io/PyRTL/",
                     "id": 17123539,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-13T01:53:45Z",
+                    "open_issues": 20,
                     "owner": "UCSBarchlab",
                     "repo": "PyRTL",
-                    "stars": 303
+                    "stars": 303,
+                    "topics": [
+                      "hdl",
+                      "pyrtl",
+                      "python",
+                      "rtl"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -540,12 +740,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "magma circuits",
+                    "homepage": null,
                     "id": 84332281,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-10-19T20:11:36Z",
+                    "open_issues": 195,
                     "owner": "phanrahan",
                     "repo": "magma",
-                    "stars": 265
+                    "stars": 265,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -556,12 +761,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python-based hardware modeling framework",
+                    "homepage": null,
                     "id": 16246284,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2019-10-27T14:22:13Z",
+                    "open_issues": 81,
                     "owner": "cornell-brg",
                     "repo": "pymtl",
-                    "stars": 247
+                    "stars": 247,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -572,12 +782,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+                    "homepage": null,
                     "id": 35898469,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T09:47:41Z",
+                    "open_issues": 11,
                     "owner": "Nic30",
                     "repo": "hwt",
-                    "stars": 226
+                    "stars": 226,
+                    "topics": [
+                      "codegen",
+                      "codegenerator",
+                      "compiler",
+                      "fpga",
+                      "hcl",
+                      "hls",
+                      "rtl",
+                      "simulator",
+                      "systemc",
+                      "systemverilog",
+                      "uvm",
+                      "verilog",
+                      "vhdl"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -588,12 +817,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Next generation CGRA generator",
+                    "homepage": null,
                     "id": 140670939,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-26T03:27:52Z",
+                    "open_issues": 79,
                     "owner": "StanfordAHA",
                     "repo": "garnet",
-                    "stars": 119
+                    "stars": 119,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -604,12 +838,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hardware Description Library",
+                    "homepage": null,
                     "id": 360750527,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-02-17T07:26:44Z",
+                    "open_issues": 48,
                     "owner": "dan-fritchman",
                     "repo": "Hdl21",
-                    "stars": 96
+                    "stars": 96,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -620,12 +859,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 552803210,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-05-26T09:09:27Z",
+                    "open_issues": 0,
                     "owner": "PyHGL",
                     "repo": "pyhgl",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -636,12 +880,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python Frontend For VHDL And Verilog",
+                    "homepage": null,
                     "id": 572967229,
                     "language": "VHDL",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-18T14:44:09Z",
+                    "open_issues": 0,
                     "owner": "davidel",
                     "repo": "pyxhdl",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": [
+                      "hdl",
+                      "python",
+                      "systemverilog",
+                      "verilog",
+                      "vhdl"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -652,12 +907,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python-based RTL-synthesis framework",
+                    "homepage": null,
                     "id": 902011921,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-06T20:11:48Z",
+                    "open_issues": 0,
                     "owner": "vagran",
                     "repo": "GateForge",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -675,12 +935,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ruby Hardware Description Language",
+                    "homepage": "http://rhdl.rubyforge.org/",
                     "id": 364696,
                     "language": "Ruby",
+                    "license": "GPL-2.0",
                     "last_commit": "2013-03-13T17:11:04Z",
+                    "open_issues": 0,
                     "owner": "philtomson",
                     "repo": "RHDL",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -698,12 +963,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Intermediate Language (IL) for Hardware Accelerator Generators",
+                    "homepage": "https://calyxir.org",
                     "id": 195173710,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T14:19:52Z",
+                    "open_issues": 175,
                     "owner": "calyxir",
                     "repo": "calyx",
-                    "stars": 612
+                    "stars": 612,
+                    "topics": [
+                      "compiler",
+                      "fpga-programming",
+                      "high-level-synthesis",
+                      "intermediate-language",
+                      "open-source-hardware"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -714,12 +990,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An HDL embedded in Rust.",
+                    "homepage": null,
                     "id": 229624863,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-11-15T21:54:24Z",
+                    "open_issues": 31,
                     "owner": "yupferris",
                     "repo": "kaze",
-                    "stars": 204
+                    "stars": 204,
+                    "topics": [
+                      "digital-logic-design",
+                      "hdl",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -730,12 +1015,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A nicer HDL.",
+                    "homepage": "http://github.com/tcr/hoodlum#hoodlum-tutorial",
                     "id": 66016756,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2017-04-08T00:52:45Z",
+                    "open_issues": 16,
                     "owner": "tcr",
                     "repo": "hoodlum",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": [
+                      "language-design",
+                      "verilog"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -746,12 +1039,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Next-gen Language & Compiler Powering Efficient Hardware Design",
+                    "homepage": null,
                     "id": 736827407,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2025-01-16T11:13:29Z",
+                    "open_issues": 0,
                     "owner": "pku-liang",
                     "repo": "Cement",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": [
+                      "compiler",
+                      "hdl",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -769,12 +1071,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chisel: A Modern Hardware Design Language",
+                    "homepage": "https://www.chisel-lang.org/",
                     "id": 34695562,
                     "language": "Scala",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T15:06:59Z",
+                    "open_issues": 510,
                     "owner": "chipsalliance",
                     "repo": "chisel",
-                    "stars": 4764
+                    "stars": 4764,
+                    "topics": [
+                      "chip-generator",
+                      "chisel",
+                      "chisel3",
+                      "firrtl",
+                      "rtl",
+                      "scala",
+                      "verilog"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 },
@@ -785,12 +1100,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scala based HDL",
+                    "homepage": null,
                     "id": 29812153,
                     "language": "Scala",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-12T07:15:05Z",
+                    "open_issues": 172,
                     "owner": "SpinalHDL",
                     "repo": "SpinalHDL",
-                    "stars": 2031
+                    "stars": 2031,
+                    "topics": [
+                      "fpga",
+                      "rtl",
+                      "scala",
+                      "verilog",
+                      "vhdl"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -808,12 +1134,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QuSoC demo projects and template",
+                    "homepage": null,
                     "id": 304538441,
                     "language": "Verilog",
+                    "license": null,
                     "last_commit": "2026-03-04T09:36:01Z",
+                    "open_issues": 0,
                     "owner": "EvgenyMuryshkin",
                     "repo": "qusoc",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -831,12 +1162,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Veryl: A Modern Hardware Description Language",
+                    "homepage": null,
                     "id": 575770340,
                     "language": "Rust",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T07:39:23Z",
+                    "open_issues": 137,
                     "owner": "veryl-lang",
                     "repo": "veryl",
-                    "stars": 1027
+                    "stars": 1027,
+                    "topics": [
+                      "hdl",
+                      "rtl",
+                      "rust",
+                      "systemverilog",
+                      "verilog"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
                 }
@@ -856,12 +1198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vitis HLS LLVM source code and examples",
+                "homepage": null,
                 "id": 314097464,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-04T16:46:23Z",
+                "open_issues": 10,
                 "owner": "Xilinx",
                 "repo": "HLS",
-                "stars": 414
+                "stars": 414,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -872,12 +1219,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source high level synthesis (HLS) tool built on top of LLVM",
+                "homepage": null,
                 "id": 152540700,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-06-11T12:11:28Z",
+                "open_issues": 3,
                 "owner": "dillonhuff",
                 "repo": "ahaHLS",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -888,12 +1240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Shang high-level synthesis framework",
+                "homepage": null,
                 "id": 4321870,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2014-05-29T05:26:20Z",
+                "open_issues": 4,
                 "owner": "etherzhhb",
                 "repo": "Shang",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -904,12 +1261,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Polyphony is Python based High-Level Synthesis compiler.",
+                "homepage": null,
                 "id": 47087986,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-14T03:01:18Z",
+                "open_issues": 2,
                 "owner": "polyphony-dev",
                 "repo": "polyphony",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "fpga",
+                  "high-level-synthesis",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -920,12 +1286,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An experimental System-on-Chip with a custom compiler toolchain.",
+                "homepage": null,
                 "id": 37286903,
                 "language": "Verilog",
+                "license": "MIT",
                 "last_commit": "2020-01-02T07:33:37Z",
+                "open_issues": 0,
                 "owner": "combinatorylogic",
                 "repo": "soc",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -936,12 +1307,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hardware synthesis framework with multi-level paradigm",
+                "homepage": null,
                 "id": 525186369,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-01-10T04:35:14Z",
+                "open_issues": 0,
                 "owner": "pku-liang",
                 "repo": "Hector",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -952,12 +1328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example projects for Quokka FPGA toolkit",
+                "homepage": null,
                 "id": 132103893,
                 "language": "Verilog",
+                "license": null,
                 "last_commit": "2026-03-04T09:40:43Z",
+                "open_issues": 17,
                 "owner": "EvgenyMuryshkin",
                 "repo": "QuokkaEvaluation",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -968,12 +1349,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Verilog synthesis directly from idiomatic Python for numerical/DSP-heavy applications. Not an HDL.",
+                "homepage": "http://holoso.digital",
                 "id": 1236971348,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T01:16:58Z",
+                "open_issues": 7,
                 "owner": "Zubax",
                 "repo": "holoso",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "dsp",
+                  "fpga",
+                  "hardware-synthesis",
+                  "hdl",
+                  "high-level-synthesis",
+                  "hls",
+                  "nisc",
+                  "pipelining",
+                  "softcore",
+                  "verilog",
+                  "zisc"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -984,12 +1382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Polyhedral Compilation tool for High Level Synthesis. ",
+                "homepage": null,
                 "id": 17219708,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2014-05-13T23:54:46Z",
+                "open_issues": 0,
                 "owner": "SamuelBayliss",
                 "repo": "Potholes",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1000,12 +1403,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recursion for High Level Synthesis",
+                "homepage": null,
                 "id": 56273829,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2016-08-30T17:06:27Z",
+                "open_issues": 1,
                 "owner": "m8pple",
                 "repo": "hls_recurse",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1016,12 +1424,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "high level synthesis with SOC",
+                "homepage": "http://funningboy.blogspot.com",
                 "id": 1186467,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2010-12-21T06:26:29Z",
+                "open_issues": 0,
                 "owner": "funningboy",
                 "repo": "hg_lvl_syn",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1032,12 +1445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xronos High Level Synthesis",
+                "homepage": null,
                 "id": 7119502,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2012-12-12T08:21:11Z",
+                "open_issues": 0,
                 "owner": "endrix",
                 "repo": "xronos",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             }
@@ -1055,12 +1473,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Silice is an easy-to-learn, powerful hardware description language, that simplifies designing hardware algorithms with parallelism and pipelines.",
+                "homepage": null,
                 "id": 213402967,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T16:48:49Z",
+                "open_issues": 71,
                 "owner": "sylefeb",
                 "repo": "Silice",
-                "stars": 1430
+                "stars": 1430,
+                "topics": [
+                  "fpga",
+                  "language",
+                  "programming"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1071,12 +1498,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ACT hardware description language and core tools.",
+                "homepage": "http://avlsi.csl.yale.edu/act",
                 "id": 161163450,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T09:32:26Z",
+                "open_issues": 1,
                 "owner": "asyncvlsi",
                 "repo": "act",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "asynchronous-circuits",
+                  "asynchronous-vlsi",
+                  "cad",
+                  "chp",
+                  "circuits",
+                  "communicating-hardware-processes",
+                  "dataflow",
+                  "dataflow-programming",
+                  "design-automation",
+                  "eda",
+                  "hardware-description-language",
+                  "hdl",
+                  "language",
+                  "production-rules",
+                  "prs",
+                  "vlsi",
+                  "vlsi-cad"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1087,12 +1537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom IC Design Platform",
+                "homepage": "https://ordec.readthedocs.io",
                 "id": 994840868,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-26T22:43:42Z",
+                "open_issues": 5,
                 "owner": "tub-msc",
                 "repo": "ordec",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1103,12 +1558,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 24963888,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2015-10-26T22:18:04Z",
+                "open_issues": 0,
                 "owner": "google",
                 "repo": "autopiper",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1119,12 +1579,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://anvil.kisp-lab.org/",
                 "id": 796269198,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2026-08-05T11:24:26Z",
+                "open_issues": 29,
                 "owner": "kisp-nus",
                 "repo": "anvil",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "asic",
+                  "fpga",
+                  "hardware",
+                  "hdl",
+                  "programming-language",
+                  "systemverilog",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             }
@@ -1142,12 +1615,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Flexible Intermediate Representation for RTL",
+                "homepage": "https://www.chisel-lang.org/firrtl/",
                 "id": 30780129,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-20T18:13:34Z",
+                "open_issues": 287,
                 "owner": "chipsalliance",
                 "repo": "firrtl",
-                "stars": 747
+                "stars": 747,
+                "topics": [
+                  "compiler",
+                  "firrtl",
+                  "hardware",
+                  "intermediate",
+                  "representation",
+                  "transformation"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1158,12 +1643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Low Level Hardware Description — A foundation for building hardware design tools.",
+                "homepage": "https://github.com/llvm/circt/",
                 "id": 20056244,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-20T09:57:15Z",
+                "open_issues": 39,
                 "owner": "fabianschuiki",
                 "repo": "llhd",
-                "stars": 437
+                "stars": 437,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1174,12 +1664,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Live Hardware Development (LiveHD), a productive infrastructure for Synthesis and Simulation",
+                "homepage": null,
                 "id": 130754579,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T23:11:03Z",
+                "open_issues": 7,
                 "owner": "masc-ucsc",
                 "repo": "livehd",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "asic",
+                  "fpga",
+                  "hdl",
+                  "lgraph",
+                  "live",
+                  "simulation",
+                  "synthesis"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1190,12 +1693,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 71757518,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-06-27T21:42:15Z",
+                "open_issues": 156,
                 "owner": "rdaly525",
                 "repo": "coreir",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "c-plus-plus",
+                  "compilers",
+                  "coreir",
+                  "hardware",
+                  "intermediate-representation",
+                  "llvm"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1206,12 +1721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interchange formats for chip design.",
+                "homepage": null,
                 "id": 439178283,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-02-15T15:04:36Z",
+                "open_issues": 29,
                 "owner": "Vlsir",
                 "repo": "Vlsir",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             }
@@ -1229,12 +1749,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yosys Open SYnthesis Suite",
+                "homepage": "https://yosyshq.net/yosys/",
                 "id": 7454197,
                 "language": "C++",
+                "license": "ISC",
                 "last_commit": "2026-08-27T17:10:41Z",
+                "open_issues": 557,
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4714
+                "stars": 4715,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1245,12 +1770,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Verilog to Routing -- Open Source CAD Flow for FPGA Research",
+                "homepage": "https://verilogtorouting.org",
                 "id": 38118370,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-29T00:34:52Z",
+                "open_issues": 124,
                 "owner": "verilog-to-routing",
                 "repo": "vtr-verilog-to-routing",
-                "stars": 1258
+                "stars": 1258,
+                "topics": [
+                  "cad",
+                  "eda",
+                  "fpga",
+                  "placement",
+                  "routing",
+                  "synthesis",
+                  "verilog",
+                  "vpr",
+                  "vtr"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             }
@@ -1268,12 +1808,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":ocean: Digital timing diagram rendering engine",
+                "homepage": "https://wavedrom.com",
                 "id": 19441646,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-08T23:45:28Z",
+                "open_issues": 204,
                 "owner": "wavedrom",
                 "repo": "wavedrom",
-                "stars": 3475
+                "stars": 3476,
+                "topics": [
+                  "diagram",
+                  "hacktoberfest",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1284,12 +1833,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "draws an SVG schematic from a JSON netlist",
+                "homepage": null,
                 "id": 75149809,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-25T15:56:06Z",
+                "open_issues": 55,
                 "owner": "nturley",
                 "repo": "netlistsvg",
-                "stars": 821
+                "stars": 821,
+                "topics": [
+                  "diagram",
+                  "elk",
+                  "klayjs",
+                  "netlist",
+                  "visualization",
+                  "yosys"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1300,12 +1861,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":cake: bit field diagram renderer",
+                "homepage": null,
                 "id": 49183843,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-22T18:09:49Z",
+                "open_issues": 19,
                 "owner": "wavedrom",
                 "repo": "bitfield",
-                "stars": 392
+                "stars": 392,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1316,12 +1884,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "D3.js and ELK based schematic visualizer",
+                "homepage": null,
                 "id": 138081540,
                 "language": "JavaScript",
+                "license": "EPL-2.0",
                 "last_commit": "2026-05-13T16:02:48Z",
+                "open_issues": 20,
                 "owner": "Nic30",
                 "repo": "d3-hwschematic",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "circuit",
+                  "visualizer"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1332,12 +1908,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "D3.js based wave (signal) visualizer",
+                "homepage": null,
                 "id": 138081910,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-09T11:32:35Z",
+                "open_issues": 6,
                 "owner": "Nic30",
                 "repo": "d3-wave",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1348,12 +1929,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sphinx extension for visual documentation of hardware written in HWT",
+                "homepage": null,
                 "id": 140629309,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-12T18:53:12Z",
+                "open_issues": 5,
                 "owner": "Nic30",
                 "repo": "sphinx-hwt",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             }
@@ -1371,12 +1957,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SystemVerilog compiler and language services",
+                "homepage": null,
                 "id": 80874333,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-26T00:05:34Z",
+                "open_issues": 28,
                 "owner": "MikePopoloski",
                 "repo": "slang",
-                "stars": 1123
+                "stars": 1123,
+                "topics": [
+                  "compiler",
+                  "language-service",
+                  "parse",
+                  "slang",
+                  "systemverilog",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1387,12 +1985,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python-based Hardware Design Processing Toolkit for Verilog HDL",
+                "homepage": null,
                 "id": 14871471,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-15T15:44:30Z",
+                "open_issues": 82,
                 "owner": "PyHDI",
                 "repo": "Pyverilog",
-                "stars": 798
+                "stars": 798,
+                "topics": [
+                  "code-generator",
+                  "compiler",
+                  "control-flow-analyzer",
+                  "dataflow-analyzer",
+                  "hardware",
+                  "parser",
+                  "python",
+                  "verilog-hdl"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1403,12 +2015,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast VHDL language server and analysis library written in Rust",
+                "homepage": null,
                 "id": 156651214,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-16T11:36:41Z",
+                "open_issues": 88,
                 "owner": "VHDL-LS",
                 "repo": "rust_hdl",
-                "stars": 505
+                "stars": 505,
+                "topics": [
+                  "language-server",
+                  "parser",
+                  "rust-programming-language",
+                  "vhdl",
+                  "vhdl-language-server",
+                  "vhdl-parser"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1419,12 +2043,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SystemVerilog parser library fully compliant with IEEE 1800-2017",
+                "homepage": null,
                 "id": 195226023,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-10T01:05:59Z",
+                "open_issues": 40,
                 "owner": "dalance",
                 "repo": "sv-parser",
-                "stars": 481
+                "stars": 481,
+                "topics": [
+                  "parser",
+                  "rust",
+                  "rust-crate",
+                  "systemverilog",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1435,12 +2070,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST & UHDM APIs. Compiles on Linux gcc, Windows msys2-gcc & msvc, OsX ",
+                "homepage": null,
                 "id": 218417034,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:33:22Z",
+                "open_issues": 47,
                 "owner": "chipsalliance",
                 "repo": "Surelog",
-                "stars": 472
+                "stars": 472,
+                "topics": [
+                  "antlr",
+                  "antlr4-grammar",
+                  "elaboration",
+                  "linter",
+                  "parser",
+                  "parser-ast",
+                  "preprocessor",
+                  "python-api",
+                  "systemverilog",
+                  "uvm",
+                  "verilog",
+                  "vpi",
+                  "vpi-api",
+                  "vpi-standard"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1451,12 +2106,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast Verilog/VHDL parser preprocessor and code generator for C++/Python based on ANTLR4",
+                "homepage": null,
                 "id": 62142405,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-06-30T16:05:06Z",
+                "open_issues": 32,
                 "owner": "Nic30",
                 "repo": "hdlConvertor",
-                "stars": 332
+                "stars": 332,
+                "topics": [
+                  "antrl4",
+                  "fpga",
+                  "parser",
+                  "python",
+                  "systemverilog",
+                  "systemverilog-parser",
+                  "verilog",
+                  "verilog-parser",
+                  "vhdl",
+                  "vhdl-parser"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1467,12 +2138,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streaming based VHDL parser.",
+                "homepage": "https://paebbels.github.io/pyVHDLParser/",
                 "id": 68818889,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-15T05:45:31Z",
+                "open_issues": 17,
                 "owner": "Paebbels",
                 "repo": "pyVHDLParser",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "language-model",
+                  "parser",
+                  "python-3",
+                  "vhdl"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             }
@@ -1490,12 +2171,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cocotb: Python-based chip (RTL) verification",
+                "homepage": "https://www.cocotb.org",
                 "id": 10651005,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T23:07:42Z",
+                "open_issues": 413,
                 "owner": "cocotb",
                 "repo": "cocotb",
-                "stars": 2486
+                "stars": 2486,
+                "topics": [
+                  "python",
+                  "test",
+                  "uvm",
+                  "verification",
+                  "verilog",
+                  "vhdl"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1506,12 +2199,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL",
+                "homepage": null,
                 "id": 31298708,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2019-11-22T23:32:10Z",
+                "open_issues": 8,
                 "owner": "ucb-bar",
                 "repo": "midas",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1522,12 +2220,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Start here.   Includes all other OSVVM libraries as submodules:  Utility, Common, Verification Component, and Script.",
+                "homepage": "https://osvvm.github.io/Overview/Osvvm1About.html",
                 "id": 281009137,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T23:27:23Z",
+                "open_issues": 4,
                 "owner": "OSVVM",
                 "repo": "OsvvmLibraries",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "osvvm",
+                  "verification",
+                  "vhdl"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1538,12 +2245,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Start here.   Includes all other OSVVM libraries as submodules:  Utility, Common, Verification Component, and Script.",
+                "homepage": "https://osvvm.github.io/Overview/Osvvm1About.html",
                 "id": 281009137,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T23:27:23Z",
+                "open_issues": 4,
                 "owner": "OSVVM",
                 "repo": "OsvvmLibraries",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "osvvm",
+                  "verification",
+                  "vhdl"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1554,12 +2270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Constrained random stimuli generation for C++ and SystemC",
+                "homepage": "http://systemc-verification.org/crave",
                 "id": 560848252,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-30T08:27:33Z",
+                "open_issues": 0,
                 "owner": "antmicro",
                 "repo": "crave",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             }
@@ -1577,12 +2298,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package manager and build abstraction tool for FPGA/ASIC development",
+                "homepage": null,
                 "id": 16964283,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-24T12:37:32Z",
+                "open_issues": 153,
                 "owner": "olofk",
                 "repo": "fusesoc",
-                "stars": 1453
+                "stars": 1453,
+                "topics": [
+                  "eda",
+                  "fpga",
+                  "package-manager",
+                  "python",
+                  "reuse",
+                  "verilog",
+                  "vhdl"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1593,12 +2327,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code generation tool for control and status registers",
+                "homepage": "https://rggen.github.io/rggen-webui/",
                 "id": 180550709,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-16T03:07:59Z",
+                "open_issues": 23,
                 "owner": "rggen",
                 "repo": "rggen",
-                "stars": 468
+                "stars": 468,
+                "topics": [
+                  "amba",
+                  "apb",
+                  "asic",
+                  "axi",
+                  "csr",
+                  "eda",
+                  "fpga",
+                  "ral",
+                  "register-descriptions",
+                  "rtl",
+                  "soc",
+                  "systemrdl",
+                  "systemverilog",
+                  "uvm",
+                  "uvm-ral-model",
+                  "uvm-register-model",
+                  "verilog",
+                  "vhdl",
+                  "wiki-documents",
+                  "wishbone-bus"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1609,12 +2369,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SystemVerilog linter",
+                "homepage": null,
                 "id": 216552919,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-11-06T20:01:47Z",
+                "open_issues": 24,
                 "owner": "dalance",
                 "repo": "svlint",
-                "stars": 390
+                "stars": 390,
+                "topics": [
+                  "lint",
+                  "linter",
+                  "rust",
+                  "systemverilog",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1625,12 +2396,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dependency management tool for hardware projects.",
+                "homepage": null,
                 "id": 133782498,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T03:43:04Z",
+                "open_issues": 52,
                 "owner": "pulp-platform",
                 "repo": "bender",
-                "stars": 388
+                "stars": 388,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1641,12 +2417,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Control and status register code generator toolchain",
+                "homepage": "http://peakrdl.readthedocs.io",
                 "id": 253298685,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-07-14T18:58:20Z",
+                "open_issues": 7,
                 "owner": "SystemRDL",
                 "repo": "PeakRDL",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "amba",
+                  "apb",
+                  "asic",
+                  "axi",
+                  "command-line-tool",
+                  "csr",
+                  "eda",
+                  "fpga",
+                  "hardware-description-language",
+                  "register-descriptions",
+                  "registers",
+                  "systemrdl-compiler",
+                  "systemverilog",
+                  "uvm",
+                  "uvm-register-model",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1657,12 +2455,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HDLGen is an HDL generation tool, supporting embedded Perl or Python script, reduce manual work &  improve effiency with a few embedded functions, with ZERO learning-curve",
+                "homepage": null,
                 "id": 559558993,
                 "language": "Verilog",
+                "license": null,
                 "last_commit": "2023-10-31T10:55:00Z",
+                "open_issues": 0,
                 "owner": "WilsonChen003",
                 "repo": "HDLGen",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "asic",
+                  "automation",
+                  "hdl",
+                  "perl",
+                  "python",
+                  "rtl",
+                  "script",
+                  "soc",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1673,12 +2486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Tool for UVM Testbench Generation",
+                "homepage": null,
                 "id": 281313929,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-19T22:16:54Z",
+                "open_issues": 2,
                 "owner": "prasadp4009",
                 "repo": "tbengy",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             },
@@ -1689,12 +2507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HBS (Hardware Build System) - the build system for hardware description projects.",
+                "homepage": null,
                 "id": 729787086,
                 "language": "Tcl",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-26T09:46:54Z",
+                "open_issues": 1,
                 "owner": "m-kru",
                 "repo": "hbs",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             }
@@ -1712,12 +2535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation for introducing the usage of PSS language.",
+                "homepage": "https://leekaixuan.github.io/PSS_Cookbook/",
                 "id": 697675358,
                 "language": "Dockerfile",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-24T06:15:34Z",
+                "open_issues": 0,
                 "owner": "LeeKaiXuan",
                 "repo": "PSS_Cookbook",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
             }
@@ -1731,15 +2559,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:44:10.806Z",
+    "last_updated": "2026-08-29T04:38:39.507Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Hardware Description Languages",
+      "homepage": null,
       "id": 88018788,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-09T02:37:45Z",
+      "open_issues": 2,
       "owner": "drom",
       "repo": "awesome-hdl",
-      "stars": 1169
+      "stars": 1169,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "hardware-description-language",
+        "hdl",
+        "verilog",
+        "vhdl"
+      ]
     },
     "original_repository_sha": "2ce0847bd411911ee414a2b66920b503c410f8cd",
     "enhanced_repository": "enhansome/enhansome-hdl",

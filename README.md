@@ -33,7 +33,7 @@ A curated list of amazingly awesome hardware description language projects.
 * VHDL
   * [Open Logic](https://github.com/open-logic/open-logic) ⭐ 1,007 | 🐛 15 | 🌐 VHDL | 📅 2026-08-25 - VHDL Standard Library (FIFOs, CDCs, fixed-point math, etc.)
 * System Verilog
-  * [Taxi Transport Library](https://github.com/fpganinja/taxi) ⭐ 909 | 🐛 25 | 🌐 SystemVerilog | 📅 2026-08-28 - System Verilog standard library
+  * [Taxi Transport Library](https://github.com/fpganinja/taxi) ⭐ 910 | 🐛 25 | 🌐 SystemVerilog | 📅 2026-08-28 - System Verilog standard library
 
 ## Meta HDL and Transpilers
 
@@ -153,12 +153,12 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## Synthesis tools
 
-* [yosys](https://github.com/YosysHQ/yosys) ⭐ 4,714 | 🐛 557 | 🌐 C++ | 📅 2026-08-27 - RTL synthesis framework
+* [yosys](https://github.com/YosysHQ/yosys) ⭐ 4,715 | 🐛 557 | 🌐 C++ | 📅 2026-08-27 - RTL synthesis framework
 * [vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing) ⭐ 1,258 | 🐛 124 | 🌐 C++ | 📅 2026-08-29
 
 ## Visualization and Documentation generators
 
-* [wavedrom](https://github.com/drom/wavedrom) ⭐ 3,475 | 🐛 204 | 🌐 JavaScript | 📅 2026-07-08 - Javascript wave graph visualizer for documentations and sim.
+* [wavedrom](https://github.com/drom/wavedrom) ⭐ 3,476 | 🐛 204 | 🌐 JavaScript | 📅 2026-07-08 - Javascript wave graph visualizer for documentations and sim.
 * [netlistsvg](https://github.com/nturley/netlistsvg) ⭐ 821 | 🐛 55 | 🌐 JavaScript | 📅 2024-01-25 - Javascript schematic visualizer
 * [bitfield](https://github.com/drom/bitfield) ⭐ 392 | 🐛 19 | 🌐 JavaScript | 📅 2024-02-22 - Javascript bit field diagram renderer
 * [d3-hwschematic](https://github.com/Nic30/d3-hwschematic) ⭐ 122 | 🐛 20 | 🌐 JavaScript | 📅 2026-05-13 - Javascript hierarchical schematic visualizer for HDLs
