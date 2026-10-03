@@ -385,7 +385,7 @@
                 {
                   "node_type": "item",
                   "title": "conal/talk-2015-haskell-to-hardware",
-                  "description": null,
+                  "description": "conal/talk-2015-haskell-to-hardware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -931,7 +931,7 @@
                 {
                   "node_type": "item",
                   "title": "RHDL",
-                  "description": null,
+                  "description": "philtomson/RHDL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1080,7 +1080,7 @@
                     "open_issues": 508,
                     "owner": "chipsalliance",
                     "repo": "chisel",
-                    "stars": 4801,
+                    "stars": 4802,
                     "topics": [
                       "chip-generator",
                       "chisel",
@@ -1554,7 +1554,7 @@
             {
               "node_type": "item",
               "title": "autopiper",
-              "description": null,
+              "description": "google/autopiper",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1669,7 +1669,7 @@
                 "id": 130754579,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T21:57:11Z",
+                "last_commit": "2026-10-03T01:44:29Z",
                 "open_issues": 3,
                 "owner": "masc-ucsc",
                 "repo": "livehd",
@@ -1758,7 +1758,7 @@
                 "open_issues": 562,
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4784,
+                "stars": 4785,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
@@ -1766,7 +1766,7 @@
             {
               "node_type": "item",
               "title": "vtr-verilog-to-routing",
-              "description": null,
+              "description": "verilog-to-routing/vtr-verilog-to-routing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1775,7 +1775,7 @@
                 "id": 38118370,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T20:30:01Z",
+                "last_commit": "2026-10-02T23:10:36Z",
                 "open_issues": 131,
                 "owner": "verilog-to-routing",
                 "repo": "vtr-verilog-to-routing",
@@ -1963,7 +1963,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-30T12:26:23Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "MikePopoloski",
                 "repo": "slang",
                 "stars": 1154,
@@ -2075,8 +2075,8 @@
                 "id": 218417034,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T21:11:39Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-02T23:13:48Z",
+                "open_issues": 48,
                 "owner": "chipsalliance",
                 "repo": "Surelog",
                 "stars": 475,
@@ -2225,7 +2225,7 @@
                 "id": 281009137,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T20:03:21Z",
+                "last_commit": "2026-10-03T04:20:20Z",
                 "open_issues": 5,
                 "owner": "OSVVM",
                 "repo": "OsvvmLibraries",
@@ -2250,7 +2250,7 @@
                 "id": 281009137,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T20:03:21Z",
+                "last_commit": "2026-10-03T04:20:20Z",
                 "open_issues": 5,
                 "owner": "OSVVM",
                 "repo": "OsvvmLibraries",
@@ -2559,7 +2559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:09:45.453Z",
+    "last_updated": "2026-10-03T04:47:42.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hardware Description Languages",
