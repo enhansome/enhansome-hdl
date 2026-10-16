@@ -17,8 +17,8 @@ A curated list of amazingly awesome hardware description language projects.
   * [Icarus Verilog](http://iverilog.icarus.com/) - simulator
   * [Yosys](http://www.clifford.at/yosys/) - RTL synthesis
 * VHDL
-  * [GHDL](https://github.com/ghdl/ghdl) ⭐ 2,908 | 🐛 338 | 🌐 VHDL | 📅 2026-10-13 - VHDL compiler and simulator, IEEE 1076-2002, written in ADA
-  * [nvc](https://github.com/nickg/nvc) ⭐ 897 | 🐛 118 | 🌐 C | 📅 2026-10-14 - GPLv3 VHDL compiler and simulator, IEEE 1076-2002, written in C
+  * [GHDL](https://github.com/ghdl/ghdl) ⭐ 2,908 | 🐛 338 | 🌐 VHDL | 📅 2026-10-16 - VHDL compiler and simulator, IEEE 1076-2002, written in ADA
+  * [nvc](https://github.com/nickg/nvc) ⭐ 897 | 🐛 117 | 🌐 C | 📅 2026-10-16 - GPLv3 VHDL compiler and simulator, IEEE 1076-2002, written in C
 * chisel/firrtl
   * [essent](https://github.com/ucsc-vama/essent) ⭐ 196 | 🐛 0 | 🌐 Scala | 📅 2026-08-04 - firrtl to optimized C++ transpiler
   * [treadle](https://github.com/chipsalliance/treadle) ⚠️ Archived - firrtl simulator written in Scala
@@ -31,9 +31,9 @@ A curated list of amazingly awesome hardware description language projects.
 ## HDL Libraries
 
 * VHDL
-  * [Open Logic](https://github.com/open-logic/open-logic) ⭐ 1,026 | 🐛 19 | 🌐 VHDL | 📅 2026-10-13 - VHDL Standard Library (FIFOs, CDCs, fixed-point math, etc.)
+  * [Open Logic](https://github.com/open-logic/open-logic) ⭐ 1,027 | 🐛 19 | 🌐 VHDL | 📅 2026-10-13 - VHDL Standard Library (FIFOs, CDCs, fixed-point math, etc.)
 * System Verilog
-  * [Taxi Transport Library](https://github.com/fpganinja/taxi) ⭐ 974 | 🐛 33 | 🌐 SystemVerilog | 📅 2026-08-28 - System Verilog standard library
+  * [Taxi Transport Library](https://github.com/fpganinja/taxi) ⭐ 975 | 🐛 34 | 🌐 SystemVerilog | 📅 2026-08-28 - System Verilog standard library
 
 ## Meta HDL and Transpilers
 
@@ -42,12 +42,12 @@ A curated list of amazingly awesome hardware description language projects.
   * [VisualHDL](http://sysprogs.com/legacy/visualhdl/) - an integrated development environment (IDE) rapid design for FPGAs
 
 * Dart
-  * [ROHD](https://github.com/intel/rohd) ⭐ 493 | 🐛 136 | 🌐 Dart | 📅 2026-10-14 - A framework for hardware description and verification, 2021+
+  * [ROHD](https://github.com/intel/rohd) ⭐ 493 | 🐛 132 | 🌐 Dart | 📅 2026-10-16 - A framework for hardware description and verification, 2021+
 
 * Haskell
-  * [CλaSH](https://github.com/clash-lang/clash-compiler) ⭐ 1,620 | 🐛 395 | 🌐 Haskell | 📅 2026-10-15 - A functional hardware description language
-  * [Bluespec](https://github.com/B-Lang-org/bsc) ⭐ 1,145 | 🐛 371 | 🌐 Haskell | 📅 2026-10-03 - Compiler, simulator, and tools for the Bluespec Hardware Description Language.
-  * [sv2v](https://github.com/zachjs/sv2v) ⭐ 755 | 🐛 40 | 🌐 Haskell | 📅 2026-08-18 - SystemVerilog to Verilog conversion
+  * [CλaSH](https://github.com/clash-lang/clash-compiler) ⭐ 1,621 | 🐛 398 | 🌐 Haskell | 📅 2026-10-16 - A functional hardware description language
+  * [Bluespec](https://github.com/B-Lang-org/bsc) ⭐ 1,145 | 🐛 373 | 🌐 Haskell | 📅 2026-10-03 - Compiler, simulator, and tools for the Bluespec Hardware Description Language.
+  * [sv2v](https://github.com/zachjs/sv2v) ⭐ 756 | 🐛 40 | 🌐 Haskell | 📅 2026-08-18 - SystemVerilog to Verilog conversion
   * [concat](https://github.com/conal/concat) ⭐ 462 | 🐛 38 | 🌐 Haskell | 📅 2024-02-28 Haskell to hardware, 2016+
   * <https://github.com/conal/talk-2015-haskell-to-hardware> ⭐ 58 | 🐛 0 | 🌐 TeX | 📅 2016-06-22
   * [pipelineDSL](https://github.com/p12nGH/pipelineDSL) ⭐ 1 | 🐛 0 | 🌐 Haskell | 📅 2021-06-20 - A Haskell DSL for describing hardware pipelines
@@ -66,7 +66,7 @@ A curated list of amazingly awesome hardware description language projects.
   * [Julia-Verilog](https://github.com/interplanetary-robot/Verilog.jl) ⭐ 52 | 🐛 2 | 🌐 Julia | 📅 2017-04-18 - a Verilog-generation DSL for Julia., 2017
 
 * OCaml
-  * [Hardcaml](https://github.com/janestreet/hardcaml/blob/master/docs/index.mdx) ⭐ 1,152 | 🐛 10 | 🌐 OCaml | 📅 2026-07-10 An OCaml library for designing hardware, complete with testing and simulation tools.
+  * [Hardcaml](https://github.com/janestreet/hardcaml/blob/master/docs/index.mdx) ⭐ 1,153 | 🐛 10 | 🌐 OCaml | 📅 2026-07-10 An OCaml library for designing hardware, complete with testing and simulation tools.
 
 * Kotlin
   * [Verik](https://github.com/frwang96/verik) ⭐ 47 | 🐛 0 | 🌐 Kotlin | 📅 2022-12-24 HDL for design and verification. generates SV. UVM.
@@ -79,8 +79,8 @@ A curated list of amazingly awesome hardware description language projects.
   * [PyRTL](https://github.com/UCSBarchlab/PyRTL) ⭐ 304 | 🐛 20 | 🌐 Python | 📅 2026-10-13 - Meta HDL, simulator suitable for research.
   * [magma](https://github.com/phanrahan/magma/) ⭐ 264 | 🐛 195 | 🌐 Python | 📅 2024-10-19 - Meta HDL, 2017+
   * [PyMTL](https://github.com/cornell-brg/pymtl) ⭐ 247 | 🐛 81 | 🌐 Python | 📅 2019-10-27 - Process based HDL, verification framework included, 2014+
-  * [HWT](https://github.com/Nic30/hwt) ⭐ 226 | 🐛 11 | 🌐 Python | 📅 2026-09-20 Meta HDL, verification env. IP-core generator, analysis tools, HDL glue
-  * [garnet](https://github.com/StanfordAHA/garnet) ⭐ 119 | 🐛 79 | 🌐 Python | 📅 2026-10-15 Coarse-Grained Reconfigurable Architecture generator based on magma, 2018+
+  * [HWT](https://github.com/Nic30/hwt) ⭐ 226 | 🐛 11 | 🌐 Python | 📅 2026-10-16 Meta HDL, verification env. IP-core generator, analysis tools, HDL glue
+  * [garnet](https://github.com/StanfordAHA/garnet) ⭐ 119 | 🐛 79 | 🌐 Python | 📅 2026-10-16 Coarse-Grained Reconfigurable Architecture generator based on magma, 2018+
   * [Hdl21](https://github.com/dan-fritchman/Hdl21) ⭐ 96 | 🐛 48 | 🌐 Python | 📅 2026-02-17 - Analog HDL in Python
   * [PyHGL](https://github.com/PyHGL/pyhgl) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2023-05-26 - Meta HDL, three-state event-driven simulation, 2022+
   * [PyXHDL](https://github.com/davidel/pyxhdl) ⭐ 31 | 🐛 0 | 🌐 VHDL | 📅 2026-05-18 - Python Frontend For VHDL And Verilog, 2023+
@@ -99,15 +99,15 @@ A curated list of amazingly awesome hardware description language projects.
   * [Spade](https://gitlab.com/spade-lang/spade) - A hardware description language inspired by modern software languages like Rust.
 
 * Scala
-  * [chisel](https://github.com/freechipsproject/chisel3) ⭐ 4,809 | 🐛 519 | 🌐 Scala | 📅 2026-10-14 - Meta HDL, 2012+
-  * [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) ⭐ 2,053 | 🐛 185 | 🌐 Scala | 📅 2026-10-13 - Meta HDL 2012+
+  * [chisel](https://github.com/freechipsproject/chisel3) ⭐ 4,809 | 🐛 522 | 🌐 Scala | 📅 2026-10-16 - Meta HDL, 2012+
+  * [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) ⭐ 2,053 | 🐛 186 | 🌐 Scala | 📅 2026-10-13 - Meta HDL 2012+
   * [DFHDL](https://dfianthdl.github.io/) - Multi-abstraction Meta HDL, 2021+
 
 * C#
   * [Quokka](https://github.com/EvgenyMuryshkin/qusoc) ⭐ 24 | 🐛 0 | 🌐 Verilog | 📅 2026-03-04 - C# to low-level RTL translator (Verilog, VHDL) and simulation toolkit examples (gates, components, RISC-V, SoC)
 
 * Veryl
-  * [Veryl](https://github.com/dalance/veryl) ⭐ 1,045 | 🐛 142 | 🌐 Rust | 📅 2026-10-15 - An original HDL based on SystemVerilog / Rust syntax, and transplier to SystemVerilog
+  * [Veryl](https://github.com/dalance/veryl) ⭐ 1,045 | 🐛 146 | 🌐 Rust | 📅 2026-10-16 - An original HDL based on SystemVerilog / Rust syntax, and transplier to SystemVerilog
 
 ## HLS
 
@@ -145,7 +145,7 @@ A curated list of amazingly awesome hardware description language projects.
 
 * [firrtl](https://github.com/freechipsproject/firrtl) ⚠️ Archived - 2016-?, Flexible Intermediate Representation for RTL
 * [LLHD](https://github.com/fabianschuiki/llhd) ⭐ 436 | 🐛 39 | 🌐 Rust | 📅 2022-04-20 - Low Level Hardware Description — A foundation for building hardware design tools
-* [lgraph](https://github.com/masc-ucsc/lgraph) ⭐ 242 | 🐛 3 | 🌐 C++ | 📅 2026-10-15 - 2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design
+* [lgraph](https://github.com/masc-ucsc/lgraph) ⭐ 242 | 🐛 3 | 🌐 C++ | 📅 2026-10-16 - 2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design
 * [coreir](https://github.com/rdaly525/coreir) ⭐ 106 | 🐛 156 | 🌐 C++ | 📅 2022-06-27 - 2016-?, LLVM HW compiler## License
 * [VLSIR](https://github.com/Vlsir/Vlsir) ⭐ 40 | 🐛 30 | 🌐 TypeScript | 📅 2026-02-15 - IC Interchange Formats, defined in Google Protobuf SDL
 * [CIRCT](https://circt.llvm.org) - 2020+, LLVM / MLIR framework "Circuit IR Compilers and Tools"
@@ -153,12 +153,12 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## Synthesis tools
 
-* [yosys](https://github.com/YosysHQ/yosys) ⭐ 4,813 | 🐛 564 | 🌐 C++ | 📅 2026-10-15 - RTL synthesis framework
-* [vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing) ⭐ 1,277 | 🐛 138 | 🌐 C++ | 📅 2026-10-14
+* [yosys](https://github.com/YosysHQ/yosys) ⭐ 4,817 | 🐛 565 | 🌐 C++ | 📅 2026-10-16 - RTL synthesis framework
+* [vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing) ⭐ 1,278 | 🐛 140 | 🌐 C++ | 📅 2026-10-16
 
 ## Visualization and Documentation generators
 
-* [wavedrom](https://github.com/drom/wavedrom) ⭐ 3,509 | 🐛 206 | 🌐 JavaScript | 📅 2026-08-31 - Javascript wave graph visualizer for documentations and sim.
+* [wavedrom](https://github.com/drom/wavedrom) ⭐ 3,510 | 🐛 206 | 🌐 JavaScript | 📅 2026-08-31 - Javascript wave graph visualizer for documentations and sim.
 * [netlistsvg](https://github.com/nturley/netlistsvg) ⭐ 831 | 🐛 55 | 🌐 JavaScript | 📅 2024-01-25 - Javascript schematic visualizer
 * [bitfield](https://github.com/drom/bitfield) ⭐ 394 | 🐛 19 | 🌐 JavaScript | 📅 2024-02-22 - Javascript bit field diagram renderer
 * [d3-hwschematic](https://github.com/Nic30/d3-hwschematic) ⭐ 123 | 🐛 20 | 🌐 JavaScript | 📅 2026-05-13 - Javascript hierarchical schematic visualizer for HDLs
@@ -168,11 +168,11 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## HDL parsers
 
-* [slang](https://github.com/MikePopoloski/slang) ⭐ 1,163 | 🐛 24 | 🌐 C++ | 📅 2026-10-15 - SystemVerilog compiler and language service.
+* [slang](https://github.com/MikePopoloski/slang) ⭐ 1,164 | 🐛 29 | 🌐 C++ | 📅 2026-10-15 - SystemVerilog compiler and language service.
 * [pyverilog](https://github.com/PyHDI/Pyverilog) ⭐ 802 | 🐛 82 | 🌐 Python | 📅 2024-06-15 - Python-based Hardware Design Processing Toolkit for Verilog HDL
-* [rust\_hdl](https://github.com/kraigher/rust_hdl) ⭐ 513 | 🐛 88 | 🌐 Rust | 📅 2026-10-05 - VHDL parser and language server written in Rust
-* [sv-parser](https://github.com/dalance/sv-parser) ⭐ 482 | 🐛 41 | 🌐 Rust | 📅 2026-06-10 -  IEEE 1800-2017 System Verilog Parser written in Rust
-* [Surelog](https://github.com/chipsalliance/Surelog) ⭐ 476 | 🐛 48 | 🌐 C++ | 📅 2026-10-09 - SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API.
+* [rust\_hdl](https://github.com/kraigher/rust_hdl) ⭐ 514 | 🐛 88 | 🌐 Rust | 📅 2026-10-05 - VHDL parser and language server written in Rust
+* [sv-parser](https://github.com/dalance/sv-parser) ⭐ 482 | 🐛 42 | 🌐 Rust | 📅 2026-06-10 -  IEEE 1800-2017 System Verilog Parser written in Rust
+* [Surelog](https://github.com/chipsalliance/Surelog) ⭐ 476 | 🐛 48 | 🌐 C++ | 📅 2026-10-15 - SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API.
 * [hdlConvertor](https://github.com/Nic30/hdlConvertor) ⭐ 334 | 🐛 32 | 🌐 C++ | 📅 2025-06-30 - Fast (System) Verilog/VHDL parser written as C++ extension for Python
 * [pyVHDLParser](https://github.com/Paebbels/pyVHDLParser) ⭐ 86 | 🐛 18 | 🌐 Python | 📅 2026-10-09 - VHDL parser written in Python
 * [verible](https://chipsalliance.github.io/verible/) - Verible provides a SystemVerilog parser, style-linter, and formatter.
@@ -190,8 +190,8 @@ A curated list of amazingly awesome hardware description language projects.
 * [fusesoc](https://github.com/olofk/fusesoc) ⭐ 1,476 | 🐛 154 | 🌐 Python | 📅 2026-10-15 -  Package manager and a set of build tools for HDL.
 * [RgGen](https://github.com/rggen/rggen) ⭐ 471 | 🐛 23 | 🌐 Ruby | 📅 2026-09-11 - Code generator tool to generate RTL, UVM RAL models and Wiki documents from CSR specifications
 * [bender](https://github.com/pulp-platform/bender) ⭐ 399 | 🐛 49 | 🌐 Rust | 📅 2026-10-15 -  Dependency management tool for hardware design projects.
-* [svlint](https://github.com/dalance/svlint) ⭐ 393 | 🐛 25 | 🌐 Rust | 📅 2025-11-06 - SystemVerilog linter compliant with IEEE1800-2017. Written in Rust, based on [sv-parser](https://github.com/dalance/sv-parser) ⭐ 482 | 🐛 41 | 🌐 Rust | 📅 2026-06-10.
-* [peakrdl](https://github.com/SystemRDL/PeakRDL) ⭐ 221 | 🐛 7 | 🌐 Python | 📅 2026-09-01 - CSR toolchain to generate RTL, UVM RAL models, document(html and markdown), IPXACT, c header from SystemRDL or IPXACT.
+* [svlint](https://github.com/dalance/svlint) ⭐ 393 | 🐛 25 | 🌐 Rust | 📅 2025-11-06 - SystemVerilog linter compliant with IEEE1800-2017. Written in Rust, based on [sv-parser](https://github.com/dalance/sv-parser) ⭐ 482 | 🐛 42 | 🌐 Rust | 📅 2026-06-10.
+* [peakrdl](https://github.com/SystemRDL/PeakRDL) ⭐ 223 | 🐛 7 | 🌐 Python | 📅 2026-09-01 - CSR toolchain to generate RTL, UVM RAL models, document(html and markdown), IPXACT, c header from SystemRDL or IPXACT.
 * [HDLGen](https://github.com/WilsonChen003/HDLGen) ⭐ 116 | 🐛 0 | 🌐 Verilog | 📅 2023-10-31 - Tool for processing of embedded Perl or Python scripts in Verilog source code.
 * [tbengy](https://github.com/prasadp4009/tbengy) ⭐ 57 | 🐛 2 | 🌐 Python | 📅 2024-05-19 - Code generator tool to generate SV/UVM RTL and Testbech as well scripts with support for bitstream generation for Digilent FPGAs
 * [hbs](https://github.com/m-kru/hbs) ⭐ 13 | 🐛 1 | 🌐 Tcl | 📅 2026-07-26 - A lean dependency management and build system for hardware description projects.
@@ -222,4 +222,4 @@ To the extent possible under law, [Aliaksei Chapyzhenka](http://drom.io) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
