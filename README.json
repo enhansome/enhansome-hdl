@@ -22,11 +22,11 @@
                     "id": 7454197,
                     "language": "C++",
                     "license": "ISC",
-                    "last_commit": "2026-11-13T18:04:54Z",
+                    "last_commit": "2026-11-14T15:09:28Z",
                     "open_issues": 591,
                     "owner": "YosysHQ",
                     "repo": "yosys",
-                    "stars": 4887,
+                    "stars": 4889,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
@@ -43,11 +43,11 @@
                     "id": 16267,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-13T22:11:05Z",
-                    "open_issues": 208,
+                    "last_commit": "2026-11-14T19:40:35Z",
+                    "open_issues": 207,
                     "owner": "steveicarus",
                     "repo": "iverilog",
-                    "stars": 3738,
+                    "stars": 3741,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T22:30:56.141Z"
@@ -71,8 +71,8 @@
                     "id": 46439446,
                     "language": "VHDL",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-13T19:42:52Z",
-                    "open_issues": 338,
+                    "last_commit": "2026-11-14T15:29:05Z",
+                    "open_issues": 336,
                     "owner": "ghdl",
                     "repo": "ghdl",
                     "stars": 2925,
@@ -103,7 +103,7 @@
                     "language": "C",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-10T10:44:24Z",
-                    "open_issues": 140,
+                    "open_issues": 143,
                     "owner": "nickg",
                     "repo": "nvc",
                     "stars": 906,
@@ -247,7 +247,7 @@
                     "language": "VHDL",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-13T13:23:07Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "open-logic",
                     "repo": "open-logic",
                     "stars": 1035,
@@ -278,7 +278,7 @@
                     "open_issues": 38,
                     "owner": "fpganinja",
                     "repo": "taxi",
-                    "stars": 1021,
+                    "stars": 1022,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
@@ -350,7 +350,7 @@
                     "open_issues": 398,
                     "owner": "clash-lang",
                     "repo": "clash-compiler",
-                    "stars": 1630,
+                    "stars": 1631,
                     "topics": [
                       "asic",
                       "fpga",
@@ -620,7 +620,7 @@
                     "open_issues": 10,
                     "owner": "janestreet",
                     "repo": "hardcaml",
-                    "stars": 1179,
+                    "stars": 1180,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:44:10.806Z"
@@ -840,7 +840,7 @@
                     "open_issues": 11,
                     "owner": "Nic30",
                     "repo": "hwt",
-                    "stars": 227,
+                    "stars": 228,
                     "topics": [
                       "codegen",
                       "codegenerator",
@@ -1125,7 +1125,7 @@
                     "id": 34695562,
                     "language": "Scala",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T22:27:31Z",
+                    "last_commit": "2026-11-14T11:10:55Z",
                     "open_issues": 509,
                     "owner": "chipsalliance",
                     "repo": "chisel",
@@ -1220,7 +1220,7 @@
                     "open_issues": 153,
                     "owner": "veryl-lang",
                     "repo": "veryl",
-                    "stars": 1062,
+                    "stars": 1065,
                     "topics": [
                       "hdl",
                       "rtl",
@@ -1718,8 +1718,8 @@
                 "id": 130754579,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T22:32:32Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-14T21:45:37Z",
+                "open_issues": 4,
                 "owner": "masc-ucsc",
                 "repo": "livehd",
                 "stars": 257,
@@ -1803,11 +1803,11 @@
                 "id": 7454197,
                 "language": "C++",
                 "license": "ISC",
-                "last_commit": "2026-11-13T18:04:54Z",
+                "last_commit": "2026-11-14T15:09:28Z",
                 "open_issues": 591,
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4887,
+                "stars": 4889,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:10.806Z"
@@ -1824,11 +1824,11 @@
                 "id": 38118370,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T23:00:20Z",
-                "open_issues": 135,
+                "last_commit": "2026-11-14T20:19:48Z",
+                "open_issues": 136,
                 "owner": "verilog-to-routing",
                 "repo": "vtr-verilog-to-routing",
-                "stars": 1283,
+                "stars": 1285,
                 "topics": [
                   "cad",
                   "eda",
@@ -1866,7 +1866,7 @@
                 "open_issues": 209,
                 "owner": "wavedrom",
                 "repo": "wavedrom",
-                "stars": 3521,
+                "stars": 3522,
                 "topics": [
                   "diagram",
                   "hacktoberfest",
@@ -2011,8 +2011,8 @@
                 "id": 80874333,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-13T03:59:11Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-14T18:26:04Z",
+                "open_issues": 19,
                 "owner": "MikePopoloski",
                 "repo": "slang",
                 "stars": 1181,
@@ -2101,7 +2101,7 @@
                 "open_issues": 42,
                 "owner": "dalance",
                 "repo": "sv-parser",
-                "stars": 485,
+                "stars": 486,
                 "topics": [
                   "parser",
                   "rust",
@@ -2124,11 +2124,11 @@
                 "id": 218417034,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T17:45:10Z",
+                "last_commit": "2026-11-14T20:36:24Z",
                 "open_issues": 47,
                 "owner": "chipsalliance",
                 "repo": "Surelog",
-                "stars": 480,
+                "stars": 481,
                 "topics": [
                   "antlr",
                   "antlr4-grammar",
@@ -2225,11 +2225,11 @@
                 "id": 10651005,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-12T17:36:52Z",
-                "open_issues": 403,
+                "last_commit": "2026-11-14T03:20:31Z",
+                "open_issues": 401,
                 "owner": "cocotb",
                 "repo": "cocotb",
-                "stars": 2577,
+                "stars": 2579,
                 "topics": [
                   "python",
                   "test",
@@ -2257,7 +2257,7 @@
                 "open_issues": 7,
                 "owner": "UVVM",
                 "repo": "UVVM",
-                "stars": 466,
+                "stars": 467,
                 "topics": []
               },
               "first_seen": "2026-10-28T22:30:56.141Z"
@@ -2299,7 +2299,7 @@
                 "open_issues": 5,
                 "owner": "OSVVM",
                 "repo": "OsvvmLibraries",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "osvvm",
                   "verification",
@@ -2352,7 +2352,7 @@
                 "open_issues": 159,
                 "owner": "olofk",
                 "repo": "fusesoc",
-                "stars": 1487,
+                "stars": 1488,
                 "topics": [
                   "eda",
                   "fpga",
@@ -2381,7 +2381,7 @@
                 "open_issues": 22,
                 "owner": "rggen",
                 "repo": "rggen",
-                "stars": 478,
+                "stars": 479,
                 "topics": [
                   "amba",
                   "apb",
@@ -2444,7 +2444,7 @@
                 "open_issues": 25,
                 "owner": "dalance",
                 "repo": "svlint",
-                "stars": 396,
+                "stars": 397,
                 "topics": [
                   "lint",
                   "linter",
@@ -2610,7 +2610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T23:29:25.731Z",
+    "last_updated": "2026-11-14T22:18:08.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hardware Description Languages",
@@ -2622,7 +2622,7 @@
       "open_issues": 3,
       "owner": "drom",
       "repo": "awesome-hdl",
-      "stars": 1183,
+      "stars": 1184,
       "topics": [
         "awesome",
         "awesome-list",
